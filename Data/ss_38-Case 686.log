@@ -1,0 +1,820 @@
+Scenario - 
+Logfile written - 06/08/2022 18:22:14
+
+Subject	Trial	Event Type	Code	block(str)	left_stim(str)	right_stim(str)	stim_chosen(str)	instruct(str)	reward(str)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+ss_38	1	Response	3							127756	127094	1
+ss_38	3	Picture	1;1;2;	1	1	2				132575	0	1	4341	1	0	next	false_alarm	3
+ss_38	3	Response	1							136795	4220	1
+ss_38	5	Picture	1;1;2;1;stand;	1	1	2	1	stand		141091	0	6	20037	6	0	next	other	0
+ss_38	7	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	165637	0	6	10019	6	0	next	other	0
+ss_38	9	Response	3							519835	14064	1
+ss_38	11	Picture	1;1;2;	1	1	2				524639	0	1	3673	1	0	next	false_alarm	8
+ss_38	11	Response	1							528115	3476	1
+ss_38	13	Picture	1;1;2;1;stand;	1	1	2	1	stand		531318	0	6	20037	6	0	next	other	0
+ss_38	15	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	555530	0	6	10019	7	0	next	other	0
+ss_38	17	Response	3							906834	11170	1
+ss_38	19	Picture	1;2;1;	1	2	1				910525	0	1	4007	1	0	next	false_alarm	13
+ss_38	19	Response	2							914474	3949	1
+ss_38	21	Picture	1;2;1;1;sit;	1	2	1	1	sit		918039	0	6	20037	6	0	next	other	0
+ss_38	23	Picture	1;2;1;1;sit;true;	1	2	1	1	sit	true	942251	0	6	10019	6	0	next	other	0
+ss_38	30	Response	3							1325594	43710	1
+ss_38	32	Picture	1;1;2;	1	1	2				1329807	0	1	4007	1	0	next	false_alarm	18
+ss_38	32	Response	1							1333753	3947	1
+ss_38	34	Picture	1;1;2;1;stand;	1	1	2	1	stand		1337321	0	6	20037	6	0	next	other	0
+ss_38	36	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	1360531	0	6	10019	7	0	next	other	0
+ss_38	43	Response	3							1741873	41709	0
+ss_38	45	Picture	1;2;1;	1	2	1				1745582	0	1	4174	1	0	next	false_alarm	23
+ss_38	45	Response	2							1749673	4091	1
+ss_38	47	Picture	1;2;1;1;sit;	1	2	1	1	sit		1754264	0	6	20037	6	0	next	other	0
+ss_38	49	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	1778810	0	6	10019	6	0	next	other	0
+ss_38	51	Response	3							2132032	13087	1
+ss_38	53	Picture	1;2;1;	1	2	1				2135642	0	1	4174	1	0	next	false_alarm	28
+ss_38	53	Response	2							2139752	4110	0
+ss_38	55	Picture	1;2;1;1;stand;	1	2	1	1	stand		2143323	0	6	20037	7	0	next	other	0
+ss_38	57	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	2167034	0	6	10019	7	0	next	other	0
+ss_38	59	Response	3							2517631	10463	0
+ss_38	61	Picture	1;1;2;	1	1	2				2522530	0	1	3507	1	0	next	false_alarm	33
+ss_38	61	Response	1							2525951	3421	1
+ss_38	63	Picture	1;1;2;1;stand;	1	1	2	1	stand		2529543	0	6	20037	6	0	next	other	0
+ss_38	65	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	2553922	0	6	10019	6	0	next	other	0
+ss_38	72	Response	3							2934071	40516	1
+ss_38	74	Picture	1;2;1;	1	2	1				2938138	0	1	4007	1	0	next	false_alarm	38
+ss_38	74	Response	2							2942071	3933	1
+ss_38	76	Picture	1;2;1;1;sit;	1	2	1	1	sit		2946320	0	6	20037	6	0	next	other	0
+ss_38	78	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	2971200	0	6	10019	6	0	next	other	0
+ss_38	80	Response	3							3319870	8536	1
+ss_38	82	Picture	1;1;2;	1	1	2				3325026	0	1	3006	1	0	next	false_alarm	43
+ss_38	82	Response	1							3327910	2884	1
+ss_38	84	Picture	1;1;2;1;stand;	1	1	2	1	stand		3331705	0	6	20037	6	0	next	other	0
+ss_38	86	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	3355249	0	6	10019	6	0	next	other	0
+ss_38	93	Response	3							3731549	36667	1
+ss_38	95	Picture	1;2;1;	1	2	1				3735291	0	1	3340	1	0	next	false_alarm	48
+ss_38	95	Response	2							3738549	3259	1
+ss_38	97	Picture	1;2;1;1;stand;	1	2	1	1	stand		3742638	0	6	20037	6	0	next	other	0
+ss_38	99	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	3766182	0	6	10019	6	0	next	other	0
+ss_38	101	Response	3							4113229	6913	1
+ss_38	103	Picture	1;1;2;	1	1	2				4117169	0	1	3673	1	0	next	false_alarm	53
+ss_38	103	Response	1							4120789	3619	1
+ss_38	105	Picture	1;1;2;1;stand;	1	1	2	1	stand		4125017	0	6	20037	6	0	next	other	0
+ss_38	107	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	4148561	0	6	10019	6	0	next	other	0
+ss_38	109	Response	3							4493388	4693	0
+ss_38	111	Picture	1;1;2;	1	1	2				4496710	0	1	4007	1	0	next	false_alarm	58
+ss_38	111	Response	1							4500548	3838	1
+ss_38	113	Picture	1;1;2;1;stand;	1	1	2	1	stand		4504057	0	6	20037	6	0	next	other	0
+ss_38	115	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	4527935	0	6	10019	6	0	next	other	0
+ss_38	117	Response	3							4875067	6998	1
+ss_38	119	Picture	1;1;2;	1	1	2				4879757	0	1	4341	1	0	next	false_alarm	63
+ss_38	119	Response	1							4883907	4150	1
+ss_38	121	Picture	1;1;2;1;sit;	1	1	2	1	sit		4888774	0	6	20037	6	0	next	other	0
+ss_38	123	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	4912151	0	6	10019	6	0	next	other	0
+ss_38	130	Response	3							5288827	37042	1
+ss_38	132	Picture	1;2;1;	1	2	1				5293362	0	1	3674	1	0	next	false_alarm	68
+ss_38	132	Response	2							5296947	3585	1
+ss_38	134	Picture	1;2;1;1;stand;	1	2	1	1	stand		5300876	0	6	20037	6	0	next	other	0
+ss_38	136	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	5325922	0	6	10019	7	0	next	other	0
+ss_38	138	Response	3							5673626	7570	1
+ss_38	140	Picture	1;1;2;	1	1	2				5677912	0	1	3506	1	0	next	false_alarm	73
+ss_38	140	Response	1							5681226	3314	1
+ss_38	142	Picture	1;1;2;1;stand;	1	1	2	1	stand		5685092	0	6	20037	6	0	next	other	0
+ss_38	144	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	5708302	0	7	10019	7	0	next	other	0
+ss_38	146	Response	3							6053465	5029	1
+ss_38	148	Picture	1;1;2;	1	1	2				6057286	0	1	4174	1	0	next	false_alarm	78
+ss_38	148	Response	2							6061305	4019	1
+ss_38	150	Picture	1;1;2;2;sit;	1	1	2	2	sit		6064633	0	6	20037	7	0	next	other	0
+ss_38	152	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	6088844	0	6	10019	6	0	next	other	0
+ss_38	159	Response	3							6478104	49627	1
+ss_38	161	Picture	1;1;2;	1	1	2				6482578	0	1	3507	1	0	next	false_alarm	83
+ss_38	161	Response	1							6486024	3446	1
+ss_38	163	Picture	1;1;2;1;sit;	1	1	2	1	sit		6490593	0	6	20037	7	0	next	other	0
+ss_38	165	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	6514972	0	6	10019	6	0	next	other	0
+ss_38	172	Response	3							6890503	35898	1
+ss_38	174	Picture	1;1;2;	1	1	2				6895348	0	1	3173	1	0	next	false_alarm	88
+ss_38	174	Response	1							6898343	2996	1
+ss_38	176	Picture	1;1;2;1;stand;	1	1	2	1	stand		6903196	0	6	20037	7	0	next	other	0
+ss_38	178	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	6928242	0	6	10019	7	0	next	other	0
+ss_38	185	Response	3							7305103	37227	1
+ss_38	187	Picture	1;1;2;	1	1	2				7308785	0	1	3006	1	0	next	false_alarm	93
+ss_38	187	Response	1							7311702	2917	1
+ss_38	189	Picture	1;1;2;1;stand;	1	1	2	1	stand		7315130	0	6	20037	6	0	next	other	0
+ss_38	191	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	7338507	0	6	10019	6	0	next	other	0
+ss_38	193	Response	3							7686622	7981	1
+ss_38	195	Picture	1;2;1;	1	2	1				7689996	0	1	4174	1	0	next	false_alarm	98
+ss_38	195	Response	2							7694022	4027	1
+ss_38	197	Picture	1;2;1;1;stand;	1	2	1	1	stand		7697677	0	6	20037	6	0	next	other	0
+ss_38	199	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	7722556	0	6	10019	6	0	next	other	0
+ss_38	206	Response	3							8095861	33672	1
+ss_38	208	Picture	1;1;2;	1	1	2				8099926	0	1	3674	1	0	next	false_alarm	103
+ss_38	208	Response	1							8103461	3535	1
+ss_38	210	Picture	1;1;2;1;stand;	1	1	2	1	stand		8107273	0	6	20037	6	0	next	other	0
+ss_38	212	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	8131652	0	6	10019	7	0	next	other	0
+ss_38	214	Response	3							8479580	7794	0
+ss_38	216	Picture	1;2;1;	1	2	1				8484477	0	1	4174	1	0	next	false_alarm	108
+ss_38	216	Response	2							8488581	4104	1
+ss_38	218	Picture	1;2;1;1;sit;	1	2	1	1	sit		8492825	0	6	20037	6	0	next	other	0
+ss_38	220	Picture	1;2;1;1;sit;true;	1	2	1	1	sit	true	8517037	0	6	10019	7	0	next	other	0
+ss_38	227	Response	3							8897300	40630	1
+ss_38	229	Picture	1;2;1;	1	2	1				8900753	0	1	3340	1	0	next	false_alarm	113
+ss_38	229	Response	2							8903899	3147	1
+ss_38	231	Picture	1;2;1;1;stand;	1	2	1	1	stand		8909101	0	6	20037	6	0	next	other	0
+ss_38	233	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	8932812	0	6	10019	6	0	next	other	0
+ss_38	240	Response	3							9302099	29654	1
+ss_38	242	Picture	1;1;2;	1	1	2				9306342	0	1	8683	1	0	next	false_alarm	118
+ss_38	242	Response	1							9314859	8517	1
+ss_38	244	Picture	1;1;2;1;stand;	1	1	2	1	stand		9318197	0	6	20037	6	0	next	other	0
+ss_38	246	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	9342242	0	6	10019	6	0	next	other	0
+ss_38	253	Response	3							9721618	39743	1
+ss_38	255	Picture	1;2;1;	1	2	1				9726291	0	1	3340	1	0	next	false_alarm	123
+ss_38	255	Response	2							9729498	3207	1
+ss_38	257	Picture	1;2;1;1;stand;	1	2	1	1	stand		9733471	0	6	20037	7	0	next	other	0
+ss_38	259	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	9757182	0	6	10019	6	0	next	other	0
+ss_38	261	Response	3							10105617	8301	1
+ss_38	263	Picture	1;2;1;	1	2	1				10109339	0	1	3507	1	0	next	false_alarm	128
+ss_38	263	Response	2							10112778	3439	0
+ss_38	265	Picture	1;2;1;1;stand;	1	2	1	1	stand		10117354	0	6	20037	6	0	next	other	0
+ss_38	267	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	10141899	0	6	10019	6	0	next	other	0
+ss_38	269	Response	3							10487057	5024	1
+ss_38	271	Picture	1;2;1;	1	2	1				10490883	0	1	4341	1	0	next	false_alarm	133
+ss_38	271	Response	2							10495057	4173	1
+ss_38	273	Picture	1;2;1;1;stand;	1	2	1	1	stand		10498898	0	6	20037	6	0	next	other	0
+ss_38	275	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	10522275	0	6	10019	6	0	next	other	0
+ss_38	282	Response	3							10900016	38108	1
+ss_38	284	Picture	1;1;2;	1	1	2				10903986	0	1	3506	1	0	next	false_alarm	138
+ss_38	284	Response	1							10907297	3310	1
+ss_38	286	Picture	1;1;2;1;stand;	1	1	2	1	stand		10911835	0	7	20037	7	0	next	other	0
+ss_38	288	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	10935712	0	6	10019	7	0	next	other	0
+ss_38	290	Response	3							11283736	7889	1
+ss_38	292	Picture	1;2;1;	1	2	1				11287869	0	1	4007	1	0	next	false_alarm	143
+ss_38	292	Response	2							11291696	3827	1
+ss_38	294	Picture	1;2;1;1;sit;	1	2	1	1	sit		11296886	0	6	20037	6	0	next	other	0
+ss_38	296	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	11319928	0	6	10019	6	0	next	other	0
+ss_38	298	Response	3							11666535	6472	1
+ss_38	300	Picture	1;1;2;	1	1	2				11670916	0	1	3507	1	0	next	false_alarm	148
+ss_38	300	Response	1							11674335	3418	0
+ss_38	302	Picture	1;1;2;1;stand;	1	1	2	1	stand		11678263	0	6	20037	6	0	next	other	0
+ss_38	304	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	11701473	0	6	10019	6	0	next	other	0
+ss_38	306	Response	3							12048454	6847	1
+ss_38	308	Picture	1;2;1;	1	2	1				12053295	0	1	4174	1	0	next	false_alarm	153
+ss_38	308	Response	2							12057414	4119	1
+ss_38	310	Picture	1;2;1;1;stand;	1	2	1	1	stand		12061477	0	6	20037	6	0	next	other	0
+ss_38	312	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	12084854	0	6	10019	6	0	next	other	0
+ss_38	319	Response	3							12462213	37726	1
+ss_38	321	Picture	1;1;2;	1	1	2				12467067	0	1	3507	1	0	next	false_alarm	158
+ss_38	321	Response	1							12470454	3387	1
+ss_38	323	Picture	1;1;2;1;stand;	1	1	2	1	stand		12475583	0	6	20037	6	0	next	other	0
+ss_38	325	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	12500295	0	6	10019	6	0	next	other	0
+ss_38	327	Response	3							12845933	5503	1
+ss_38	329	Picture	1;2;1;	1	2	1				12850782	0	1	4007	1	0	next	false_alarm	163
+ss_38	329	Response	2							12854613	3831	1
+ss_38	331	Picture	1;2;1;1;sit;	1	2	1	1	sit		12858964	0	6	20037	6	0	next	other	0
+ss_38	333	Picture	1;2;1;1;sit;true;	1	2	1	1	sit	true	12882341	0	6	10019	6	0	next	other	0
+ss_38	340	Response	3							13257252	35278	1
+ss_38	342	Picture	1;1;2;	1	1	2				13261548	0	1	3340	1	0	next	false_alarm	168
+ss_38	342	Response	1							13264772	3224	1
+ss_38	344	Picture	1;1;2;1;stand;	1	1	2	1	stand		13269396	0	6	20037	6	0	next	other	0
+ss_38	346	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	13294108	0	6	10019	7	0	next	other	0
+ss_38	353	Response	3							13672251	38510	0
+ss_38	355	Picture	1;1;2;	1	1	2				13676989	0	1	4341	1	0	next	false_alarm	173
+ss_38	355	Response	1							13681131	4143	0
+ss_38	357	Picture	1;1;2;1;sit;	1	1	2	1	sit		13685505	0	6	20037	6	0	next	other	0
+ss_38	359	Picture	1;1;2;1;sit;false;	1	1	2	1	sit	false	13709382	0	6	10019	6	0	next	other	0
+ss_38	361	Response	3							15313048	1263532	1
+ss_38	363	Picture	1;2;1;	1	2	1				15318215	0	1	4007	1	0	next	false_alarm	178
+ss_38	363	Response	2							15322088	3873	1
+ss_38	365	Picture	1;2;1;1;stand;	1	2	1	1	stand		15326897	0	6	20037	6	0	next	other	0
+ss_38	367	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	15350608	0	6	10019	6	0	next	other	0
+ss_38	374	Response	3							15699407	9166	1
+ss_38	376	Picture	1;1;2;	1	1	2				15704434	0	1	3674	1	0	next	false_alarm	183
+ss_38	376	Response	1							15707968	3533	1
+ss_38	378	Picture	1;1;2;1;stand;	1	1	2	1	stand		15711448	0	6	20037	6	0	next	other	0
+ss_38	380	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	15734657	0	6	10019	6	0	next	other	0
+ss_38	382	Response	3							16083007	8215	1
+ss_38	384	Picture	1;1;2;	1	1	2				16087482	0	1	4341	1	0	next	false_alarm	188
+ss_38	384	Response	1							16091647	4165	0
+ss_38	386	Picture	1;1;2;1;sit;	1	1	2	1	sit		16095831	0	6	20037	6	0	next	other	0
+ss_38	388	Picture	1;1;2;1;sit;false;	1	1	2	1	sit	false	16119542	0	6	10019	7	0	next	other	0
+ss_38	390	Response	3							16468726	9051	1
+ss_38	392	Picture	1;2;1;	1	2	1				16473201	0	1	4508	1	0	next	false_alarm	193
+ss_38	392	Response	2							16477606	4405	1
+ss_38	394	Picture	1;2;1;1;stand;	1	2	1	1	stand		16481216	0	6	20037	6	0	next	other	0
+ss_38	396	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	16505427	0	6	10019	6	0	next	other	0
+ss_38	398	Response	3							16853406	7844	1
+ss_38	400	Picture	1;2;1;	1	2	1				16856749	0	1	3840	1	0	next	false_alarm	198
+ss_38	400	Response	2							16860485	3736	1
+ss_38	402	Picture	1;2;1;1;stand;	1	2	1	1	stand		16864096	0	6	20037	6	0	next	other	0
+ss_38	404	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	16887473	0	6	10019	6	0	next	other	0
+ss_38	406	Response	3							17235245	7638	1
+ss_38	408	Picture	1;1;2;	1	1	2				17239629	0	1	3507	1	0	next	false_alarm	203
+ss_38	408	Response	1							17243045	3415	1
+ss_38	410	Picture	1;1;2;1;sit;	1	1	2	1	sit		17247978	0	6	20037	6	0	next	other	0
+ss_38	412	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	17271188	0	6	10019	6	0	next	other	0
+ss_38	419	Response	3							17637884	27063	0
+ss_38	421	Picture	1;1;2;	1	1	2				17642380	0	1	4174	1	0	next	false_alarm	208
+ss_38	421	Response	1							17646444	4064	0
+ss_38	423	Picture	1;1;2;1;sit;	1	1	2	1	sit		17649727	0	6	20037	6	0	next	other	0
+ss_38	425	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	17673772	0	6	10019	7	0	next	other	0
+ss_38	432	Response	3							18040603	27198	1
+ss_38	434	Picture	1;1;2;	1	1	2				18045131	0	1	3006	1	0	next	false_alarm	213
+ss_38	434	Response	1							18048043	2913	1
+ss_38	436	Picture	1;1;2;1;sit;	1	1	2	1	sit		18052478	0	6	20037	7	0	next	other	0
+ss_38	438	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	18076022	0	6	10019	6	0	next	other	0
+ss_38	445	Response	3							18448802	33148	1
+ss_38	447	Picture	1;1;2;	1	1	2				18453726	0	1	3507	1	0	next	false_alarm	218
+ss_38	447	Response	1							18457043	3317	1
+ss_38	449	Picture	1;1;2;1;stand;	1	1	2	1	stand		18462242	0	6	20037	7	0	next	other	0
+ss_38	451	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	18486620	0	6	10019	6	0	next	other	0
+ss_38	453	Response	3							18834122	7368	1
+ss_38	455	Picture	1;2;1;	1	2	1				18837942	0	1	3674	1	0	next	false_alarm	223
+ss_38	455	Response	2							18841522	3580	0
+ss_38	457	Picture	1;2;1;1;stand;	1	2	1	1	stand		18845957	0	7	20037	7	0	next	other	0
+ss_38	459	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	18869334	0	6	10019	6	0	next	other	0
+ss_38	466	Response	3							19216761	7794	1
+ss_38	468	Picture	1;1;2;	1	1	2				19221323	0	1	3340	1	0	next	false_alarm	228
+ss_38	468	Response	1							19224521	3198	0
+ss_38	470	Picture	1;1;2;1;stand;	1	1	2	1	stand		19229338	0	6	20037	7	0	next	other	0
+ss_38	472	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	19253049	0	6	10019	6	0	next	other	0
+ss_38	474	Response	3							19599001	5818	1
+ss_38	476	Picture	1;1;2;	1	1	2				19603369	0	1	3673	1	0	next	false_alarm	233
+ss_38	476	Response	1							19606921	3552	1
+ss_38	478	Picture	1;1;2;1;stand;	1	1	2	1	stand		19610382	0	6	20037	6	0	next	other	0
+ss_38	480	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	19634927	0	6	10019	6	0	next	other	0
+ss_38	487	Response	3							19981080	6519	1
+ss_38	489	Picture	1;2;1;	1	2	1				19984412	0	1	4007	1	0	next	false_alarm	238
+ss_38	489	Response	2							19988360	3948	0
+ss_38	491	Picture	1;2;1;1;stand;	1	2	1	1	stand		19993095	0	6	20037	6	0	next	other	0
+ss_38	493	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	20018142	0	6	10019	6	0	next	other	0
+ss_38	495	Response	3							20365199	6923	1
+ss_38	497	Picture	1;1;2;	1	1	2				20369463	0	1	4675	1	0	next	false_alarm	243
+ss_38	497	Response	1							20374079	4616	1
+ss_38	499	Picture	1;1;2;1;stand;	1	1	2	1	stand		20377478	0	6	20037	6	0	next	other	0
+ss_38	501	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	20401356	0	6	10019	6	0	next	other	0
+ss_38	503	Response	3							20749959	8469	1
+ss_38	505	Picture	1;1;2;	1	1	2				20753179	0	1	3340	1	0	next	false_alarm	248
+ss_38	505	Response	1							20756399	3220	1
+ss_38	507	Picture	1;1;2;1;stand;	1	1	2	1	stand		20761527	0	6	20037	7	0	next	other	0
+ss_38	509	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	20785238	0	6	10019	6	0	next	other	0
+ss_38	516	Response	3							21132278	7406	1
+ss_38	518	Picture	1;2;1;	1	2	1				21135558	0	1	4007	1	0	next	false_alarm	253
+ss_38	518	Response	2							21139357	3799	1
+ss_38	520	Picture	1;2;1;1;sit;	1	2	1	1	sit		21143406	0	6	20037	7	0	next	other	0
+ss_38	522	Picture	1;2;1;1;sit;true;	1	2	1	1	sit	true	21167618	0	6	10019	6	0	next	other	0
+ss_38	529	Response	3							21541837	34586	1
+ss_38	531	Picture	1;2;1;	1	2	1				21545155	0	1	3674	1	0	next	false_alarm	258
+ss_38	531	Response	2							21548717	3562	0
+ss_38	533	Picture	1;2;1;1;stand;	1	2	1	1	stand		21553003	0	6	20037	6	0	next	other	0
+ss_38	535	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	21576881	0	6	10019	6	0	next	other	0
+ss_38	542	Response	3							21924396	7883	1
+ss_38	544	Picture	1;2;1;	1	2	1				21928536	0	1	3507	1	0	next	false_alarm	263
+ss_38	544	Response	2							21931916	3380	1
+ss_38	546	Picture	1;2;1;1;stand;	1	2	1	1	stand		21935716	0	6	20037	6	0	next	other	0
+ss_38	548	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	21960095	0	6	10019	6	0	next	other	0
+ss_38	555	Response	3							22304236	4508	1
+ss_38	557	Picture	1;1;2;	1	1	2				22309079	0	1	3173	1	0	next	false_alarm	268
+ss_38	557	Response	1							22312075	2997	1
+ss_38	559	Picture	1;1;2;1;stand;	1	1	2	1	stand		22315424	0	6	20037	6	0	next	other	0
+ss_38	561	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	22340471	0	7	10019	7	0	next	other	0
+ss_38	568	Response	3							22687675	7571	0
+ss_38	570	Picture	1;2;1;	1	2	1				22692794	0	1	4007	1	0	next	false_alarm	273
+ss_38	570	Response	2							22696715	3921	1
+ss_38	572	Picture	1;2;1;1;stand;	1	2	1	1	stand		22701811	0	6	20037	7	0	next	other	0
+ss_38	574	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	22725856	0	6	10019	6	0	next	other	0
+ss_38	581	Response	3							23070434	4946	1
+ss_38	583	Picture	1;2;1;	1	2	1				23074338	0	1	3173	1	0	next	false_alarm	278
+ss_38	583	Response	2							23077434	3096	1
+ss_38	585	Picture	1;2;1;1;stand;	1	2	1	1	stand		23082019	0	6	20037	6	0	next	other	0
+ss_38	587	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	23105062	0	6	10019	6	0	next	other	0
+ss_38	594	Response	3							23449434	4738	1
+ss_38	596	Picture	1;2;1;	1	2	1				23452710	0	1	3507	1	0	next	false_alarm	283
+ss_38	596	Response	2							23456154	3443	1
+ss_38	598	Picture	1;2;1;1;stand;	1	2	1	1	stand		23460725	0	6	20037	6	0	next	other	0
+ss_38	600	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	23485104	0	6	10019	6	0	next	other	0
+ss_38	602	Response	3							23832513	7275	1
+ss_38	604	Picture	1;1;2;	1	1	2				23835758	0	1	3173	1	0	next	false_alarm	288
+ss_38	604	Response	1							23838873	3115	1
+ss_38	606	Picture	1;1;2;1;stand;	1	1	2	1	stand		23843105	0	6	20037	6	0	next	other	0
+ss_38	608	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	23866983	0	6	10019	6	0	next	other	0
+ss_38	615	Response	3							24214352	7737	1
+ss_38	617	Picture	1;2;1;	1	2	1				24218805	0	1	3841	1	0	next	false_alarm	293
+ss_38	617	Response	2							24222472	3667	1
+ss_38	619	Picture	1;2;1;1;stand;	1	2	1	1	stand		24227488	0	6	20037	7	0	next	other	0
+ss_38	621	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	24251867	0	7	10019	7	0	next	other	0
+ss_38	623	Response	3							24599871	7870	1
+ss_38	625	Picture	1;2;1;	1	2	1				24603355	0	1	3507	1	0	next	false_alarm	298
+ss_38	625	Response	2							24606752	3396	0
+ss_38	627	Picture	1;2;1;1;stand;	1	2	1	1	stand		24610201	0	6	20037	6	0	next	other	0
+ss_38	629	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	24634914	0	6	10019	6	0	next	other	0
+ss_38	631	Response	3							24981231	6183	1
+ss_38	633	Picture	1;2;1;	1	2	1				24985401	0	1	4007	1	0	next	false_alarm	303
+ss_38	633	Response	2							24989310	3910	1
+ss_38	635	Picture	1;2;1;1;sit;	1	2	1	1	sit		24993082	0	6	20037	6	0	next	other	0
+ss_38	637	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	25016793	0	6	10019	6	0	next	other	0
+ss_38	639	Response	3							25361710	4784	1
+ss_38	641	Picture	1;1;2;	1	1	2				25366277	0	1	4508	1	0	next	false_alarm	308
+ss_38	641	Response	1							25370670	4393	1
+ss_38	643	Picture	1;1;2;1;stand;	1	1	2	1	stand		25374125	0	6	20037	6	0	next	other	0
+ss_38	645	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	25397335	0	6	10019	6	0	next	other	0
+ss_38	652	Response	3							25757509	20541	1
+ss_38	654	Picture	1;2;1;	1	2	1				25761013	0	1	3507	1	0	next	false_alarm	313
+ss_38	654	Response	2							25764429	3416	0
+ss_38	656	Picture	1;2;1;1;stand;	1	2	1	1	stand		25769028	0	6	20037	6	0	next	other	0
+ss_38	658	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	25793240	0	6	10019	6	0	next	other	0
+ss_38	665	Response	3							26142429	9556	1
+ss_38	667	Picture	1;2;1;	1	2	1				26147400	0	1	3841	1	0	next	false_alarm	318
+ss_38	667	Response	2							26151189	3789	0
+ss_38	669	Picture	1;2;1;1;stand;	1	2	1	1	stand		26154914	0	6	20037	6	0	next	other	0
+ss_38	671	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	26179794	0	6	10019	7	0	next	other	0
+ss_38	673	Response	3							26526348	6420	1
+ss_38	675	Picture	1;2;1;	1	2	1				26530614	0	1	6345	1	0	next	false_alarm	323
+ss_38	675	Response	2							26536908	6294	1
+ss_38	677	Picture	1;2;1;1;sit;	1	2	1	1	sit		26541802	0	6	20037	6	0	next	other	0
+ss_38	679	Picture	1;2;1;1;sit;true;	1	2	1	1	sit	true	26565847	0	6	10019	6	0	next	other	0
+ss_38	686	Response	3							26930907	25428	1
+ss_38	688	Picture	1;2;1;	1	2	1				26936037	0	1	3840	1	0	next	false_alarm	328
+ss_38	688	Response	2							26939787	3751	1
+ss_38	690	Picture	1;2;1;1;sit;	1	2	1	1	sit		26944552	0	6	20037	6	0	next	other	0
+ss_38	692	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	26968597	0	6	10019	6	0	next	other	0
+ss_38	694	Response	3							27313347	4615	1
+ss_38	696	Picture	1;2;1;	1	2	1				27318416	0	1	3340	1	0	next	false_alarm	333
+ss_38	696	Response	2							27321707	3291	0
+ss_38	698	Picture	1;2;1;1;stand;	1	2	1	1	stand		27326097	0	6	20037	6	0	next	other	0
+ss_38	700	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	27349641	0	6	10019	6	0	next	other	0
+ss_38	707	Response	3							27696386	7112	1
+ss_38	709	Picture	1;1;2;	1	1	2				27701463	0	1	4007	1	0	next	false_alarm	338
+ss_38	709	Response	1							27705346	3883	1
+ss_38	711	Picture	1;1;2;1;stand;	1	1	2	1	stand		27709645	0	6	20037	6	0	next	other	0
+ss_38	713	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	27733523	0	6	10019	6	0	next	other	0
+ss_38	720	Response	3							28078465	5309	1
+ss_38	722	Picture	1;1;2;	1	1	2				28082674	0	1	3840	1	0	next	false_alarm	343
+ss_38	722	Response	1							28086465	3791	1
+ss_38	724	Picture	1;1;2;1;stand;	1	1	2	1	stand		28090856	0	6	20037	6	0	next	other	0
+ss_38	726	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	28115903	0	6	10019	6	0	next	other	0
+ss_38	733	Response	3							28461585	6049	1
+ss_38	735	Picture	1;1;2;	1	1	2				28464886	0	1	3506	1	0	next	false_alarm	348
+ss_38	735	Response	1							28468305	3418	1
+ss_38	737	Picture	1;1;2;1;stand;	1	1	2	1	stand		28471899	0	7	20037	7	0	next	other	0
+ss_38	739	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	28496612	0	6	10019	6	0	next	other	0
+ss_38	746	Response	3							28851424	15179	1
+ss_38	748	Picture	1;1;2;	1	1	2				28856116	0	1	3507	1	0	next	false_alarm	353
+ss_38	748	Response	1							28859424	3308	1
+ss_38	750	Picture	1;1;2;1;stand;	1	1	2	1	stand		28864464	0	6	20037	6	0	next	other	0
+ss_38	752	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	28888342	0	6	10019	6	0	next	other	0
+ss_38	759	Response	3							29248823	20848	1
+ss_38	761	Picture	1;1;2;	1	1	2				29253356	0	1	3840	1	0	next	false_alarm	358
+ss_38	761	Response	1							29256983	3627	1
+ss_38	763	Picture	1;1;2;1;stand;	1	1	2	1	stand		29260703	0	6	20037	6	0	next	other	0
+ss_38	765	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	29285082	0	6	10019	6	0	next	other	0
+ss_38	767	Response	3							30943740	1318524	1
+ss_38	769	Picture	1;1;2;	1	1	2				30948683	0	1	3674	1	0	next	false_alarm	363
+ss_38	769	Response	1							30952180	3497	0
+ss_38	771	Picture	1;1;2;1;stand;	1	1	2	1	stand		30956865	0	6	20037	6	0	next	other	0
+ss_38	773	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	30980075	0	6	10019	6	0	next	other	0
+ss_38	775	Response	3							31327179	6971	1
+ss_38	777	Picture	1;1;2;	1	1	2				31331396	0	1	4341	1	0	next	false_alarm	368
+ss_38	777	Response	1							31335579	4183	1
+ss_38	779	Picture	1;1;2;1;stand;	1	1	2	1	stand		31340747	0	6	20037	6	0	next	other	0
+ss_38	781	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	31365460	0	6	10019	6	0	next	other	0
+ss_38	788	Response	3							31711699	6606	1
+ss_38	790	Picture	1;2;1;	1	2	1				31715946	0	1	4174	1	0	next	false_alarm	373
+ss_38	790	Response	2							31720059	4113	1
+ss_38	792	Picture	1;2;1;1;sit;	1	2	1	1	sit		31725130	0	6	20037	6	0	next	other	0
+ss_38	794	Picture	1;2;1;1;sit;false;	1	2	1	1	sit	false	31749175	0	6	10019	6	0	next	other	0
+ss_38	796	Response	3							32104098	14789	1
+ss_38	798	Picture	1;1;2;	1	1	2				32108010	0	1	5176	1	0	next	false_alarm	378
+ss_38	798	Response	1							32113058	5048	1
+ss_38	800	Picture	1;1;2;1;stand;	1	1	2	1	stand		32116526	0	6	20037	6	0	next	other	0
+ss_38	802	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	32139736	0	6	10019	6	0	next	other	0
+ss_38	809	Response	3							32491977	12608	1
+ss_38	811	Picture	1;2;1;	1	2	1				32496067	0	1	4008	1	0	next	false_alarm	383
+ss_38	811	Response	2							32499977	3910	1
+ss_38	813	Picture	1;2;1;1;stand;	1	2	1	1	stand		32503581	0	6	20037	6	0	next	other	0
+ss_38	815	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	32527459	0	6	10019	7	0	next	other	0
+ss_38	822	Response	3							32890737	23645	1
+ss_38	824	Picture	1;2;1;	1	2	1				32895144	0	1	3840	1	0	next	false_alarm	388
+ss_38	824	Response	2							32898817	3672	1
+ss_38	826	Picture	1;2;1;1;stand;	1	2	1	1	stand		32903827	0	6	20037	7	0	next	other	0
+ss_38	828	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	32928373	0	6	10019	6	0	next	other	0
+ss_38	830	Response	3							33279376	10869	1
+ss_38	832	Picture	1;2;1;	1	2	1				33283535	0	1	4341	1	0	next	false_alarm	393
+ss_38	832	Response	2							33287816	4281	1
+ss_38	834	Picture	1;2;1;1;stand;	1	2	1	1	stand		33292051	0	7	20037	7	0	next	other	0
+ss_38	836	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	33315929	0	6	10019	6	0	next	other	0
+ss_38	838	Response	3							33660335	4273	1
+ss_38	840	Picture	1;1;2;	1	1	2				33664077	0	1	3340	1	0	next	false_alarm	398
+ss_38	840	Response	1							33667255	3178	1
+ss_38	842	Picture	1;1;2;1;stand;	1	1	2	1	stand		33670924	0	6	20037	6	0	next	other	0
+ss_38	844	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	33694801	0	6	10019	6	0	next	other	0
+ss_38	846	Response	3							34046374	11439	1
+ss_38	848	Picture	1;1;2;	1	1	2				34050464	0	1	3340	1	0	next	false_alarm	403
+ss_38	848	Response	2							34053615	3150	1
+ss_38	850	Picture	1;1;2;2;stand;	1	1	2	2	stand		34057644	0	6	20037	6	0	next	other	0
+ss_38	852	Picture	1;1;2;2;stand;true;	1	1	2	2	stand	true	34081856	0	6	10019	6	0	next	other	0
+ss_38	859	Response	3							34433454	11964	1
+ss_38	861	Picture	1;1;2;	1	1	2				34437018	0	1	2839	1	0	next	false_alarm	408
+ss_38	861	Response	2							34439734	2716	1
+ss_38	863	Picture	1;1;2;2;stand;	1	1	2	2	stand		34444365	0	6	20037	6	0	next	other	0
+ss_38	865	Picture	1;1;2;2;stand;false;	1	1	2	2	stand	false	34468744	0	6	10019	6	0	next	other	0
+ss_38	867	Response	3							34818573	9695	1
+ss_38	869	Picture	1;1;2;	1	1	2				34822403	0	1	3507	1	0	next	false_alarm	413
+ss_38	869	Response	2							34825773	3370	1
+ss_38	871	Picture	1;1;2;2;sit;	1	1	2	2	sit		34829249	0	6	20037	7	0	next	other	0
+ss_38	873	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	34853795	0	6	10019	6	0	next	other	0
+ss_38	875	Response	3							35201492	7563	0
+ss_38	877	Picture	1;2;1;	1	2	1				35206118	0	1	3340	1	0	next	false_alarm	418
+ss_38	877	Response	1							35209372	3254	0
+ss_38	879	Picture	1;2;1;2;stand;	1	2	1	2	stand		35213132	0	6	20037	6	0	next	other	0
+ss_38	881	Picture	1;2;1;2;stand;false;	1	2	1	2	stand	false	35237343	0	6	10019	6	0	next	other	0
+ss_38	883	Response	3							35599371	21894	1
+ss_38	885	Picture	1;1;2;	1	1	2				35604194	0	1	6011	1	0	next	false_alarm	423
+ss_38	885	Response	2							35610012	5818	1
+ss_38	887	Picture	1;1;2;2;stand;	1	1	2	2	stand		35613879	0	6	20037	6	0	next	other	0
+ss_38	889	Picture	1;1;2;2;stand;false;	1	1	2	2	stand	false	35637255	0	6	10019	6	0	next	other	0
+ss_38	891	Response	3							35982491	5102	1
+ss_38	893	Picture	1;1;2;	1	1	2				35986573	0	1	3006	1	0	next	false_alarm	428
+ss_38	893	Response	1							35989491	2917	1
+ss_38	895	Picture	1;1;2;1;sit;	1	1	2	1	sit		35994254	0	6	20037	6	0	next	other	0
+ss_38	897	Picture	1;1;2;1;sit;false;	1	1	2	1	sit	false	36017464	0	6	10019	6	0	next	other	0
+ss_38	899	Response	3							36362251	4652	1
+ss_38	901	Picture	1;1;2;	1	1	2				36367450	0	1	2839	1	0	next	false_alarm	433
+ss_38	901	Response	1							36370210	2761	1
+ss_38	903	Picture	1;1;2;1;stand;	1	1	2	1	stand		36374964	0	7	20037	7	0	next	other	0
+ss_38	905	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	36399510	0	6	10019	6	0	next	other	0
+ss_38	912	Response	3							36751810	12667	1
+ss_38	914	Picture	1;1;2;	1	1	2				36757009	0	1	3173	1	0	next	false_alarm	438
+ss_38	914	Response	2							36760050	3041	0
+ss_38	916	Picture	1;1;2;2;sit;	1	1	2	2	sit		36763521	0	6	20037	7	0	next	other	0
+ss_38	918	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	36787065	0	6	10019	7	0	next	other	0
+ss_38	925	Response	3							37167449	40751	1
+ss_38	927	Picture	1;2;1;	1	2	1				37172116	0	1	4342	1	0	next	false_alarm	443
+ss_38	927	Response	2							37176249	4132	0
+ss_38	929	Picture	1;2;1;1;stand;	1	2	1	1	stand		37179463	0	6	20037	6	0	next	other	0
+ss_38	931	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	37204510	0	6	10019	6	0	next	other	0
+ss_38	938	Response	3							37553168	9025	1
+ss_38	940	Picture	1;1;2;	1	1	2				37558002	0	1	3340	1	0	next	false_alarm	448
+ss_38	940	Response	2							37561288	3286	1
+ss_38	942	Picture	1;1;2;2;sit;	1	1	2	2	sit		37565349	0	6	20037	6	0	next	other	0
+ss_38	944	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	37589728	0	6	10019	6	0	next	other	0
+ss_38	951	Response	3							37962248	32886	1
+ss_38	953	Picture	1;2;1;	1	2	1				37965595	0	1	4007	1	0	next	false_alarm	453
+ss_38	953	Response	2							37969487	3892	1
+ss_38	955	Picture	1;2;1;1;stand;	1	2	1	1	stand		37974445	0	6	20037	7	0	next	other	0
+ss_38	957	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	37998991	0	6	10019	6	0	next	other	0
+ss_38	964	Response	3							38348767	10143	1
+ss_38	966	Picture	1;1;2;	1	1	2				38352650	0	1	3507	1	0	next	false_alarm	458
+ss_38	966	Response	1							38356007	3357	0
+ss_38	968	Picture	1;1;2;1;sit;	1	1	2	1	sit		38360665	0	6	20037	6	0	next	other	0
+ss_38	970	Picture	1;1;2;1;sit;false;	1	1	2	1	sit	false	38384710	0	6	10019	6	0	next	other	0
+ss_38	972	Response	3							38733206	8362	1
+ss_38	974	Picture	1;2;1;	1	2	1				38737367	0	1	3507	1	0	next	false_alarm	463
+ss_38	974	Response	2							38740686	3319	0
+ss_38	976	Picture	1;2;1;1;stand;	1	2	1	1	stand		38745048	0	6	20037	6	0	next	other	0
+ss_38	978	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	38768926	0	6	10019	6	0	next	other	0
+ss_38	985	Response	3							39113885	5326	0
+ss_38	987	Picture	1;2;1;	1	2	1				39118912	0	1	3507	1	0	next	false_alarm	468
+ss_38	987	Response	2							39122366	3454	1
+ss_38	989	Picture	1;2;1;1;stand;	1	2	1	1	stand		39126760	0	7	20037	7	0	next	other	0
+ss_38	991	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	39150638	0	6	10019	7	0	next	other	0
+ss_38	993	Response	3							39497285	6513	1
+ss_38	995	Picture	1;1;2;	1	1	2				39501625	0	1	5510	1	0	next	false_alarm	473
+ss_38	995	Response	2							39506965	5340	0
+ss_38	997	Picture	1;1;2;2;sit;	1	1	2	2	sit		39511644	0	6	20037	6	0	next	other	0
+ss_38	999	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	39534687	0	6	10019	6	0	next	other	0
+ss_38	1001	Response	3							39883484	8663	1
+ss_38	1003	Picture	1;2;1;	1	2	1				39888346	0	1	5510	1	0	next	false_alarm	478
+ss_38	1003	Response	2							39893804	5458	1
+ss_38	1005	Picture	1;2;1;1;stand;	1	2	1	1	stand		39897196	0	6	20037	6	0	next	other	0
+ss_38	1007	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	39922242	0	6	10019	6	0	next	other	0
+ss_38	1009	Response	3							40277083	14707	1
+ss_38	1011	Picture	1;1;2;	1	1	2				40281412	0	1	3173	1	0	next	false_alarm	483
+ss_38	1011	Response	1							40284523	3111	1
+ss_38	1013	Picture	1;1;2;1;stand;	1	1	2	1	stand		40288926	0	6	20037	6	0	next	other	0
+ss_38	1015	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	40312804	0	6	10019	6	0	next	other	0
+ss_38	1022	Response	3							40668923	16486	1
+ss_38	1024	Picture	1;2;1;	1	2	1				40673309	0	1	3674	1	0	next	false_alarm	488
+ss_38	1024	Response	2							40676923	3614	1
+ss_38	1026	Picture	1;2;1;1;stand;	1	2	1	1	stand		40680823	0	6	20037	6	0	next	other	0
+ss_38	1028	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	40704534	0	6	10019	6	0	next	other	0
+ss_38	1030	Response	3							41053601	8934	1
+ss_38	1032	Picture	1;1;2;	1	1	2				41057692	0	1	5009	1	0	next	false_alarm	493
+ss_38	1032	Response	1							41062602	4910	1
+ss_38	1034	Picture	1;1;2;1;stand;	1	1	2	1	stand		41066208	0	6	20037	6	0	next	other	0
+ss_38	1036	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	41090086	0	6	10019	6	0	next	other	0
+ss_38	1038	Response	3							41438721	8501	1
+ss_38	1040	Picture	1;1;2;	1	1	2				41442910	0	1	7013	1	0	next	false_alarm	498
+ss_38	1040	Response	1							41449801	6891	1
+ss_38	1042	Picture	1;1;2;1;stand;	1	1	2	1	stand		41454766	0	6	20037	6	0	next	other	0
+ss_38	1044	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	41479144	0	6	10019	6	0	next	other	0
+ss_38	1046	Response	3							41837440	18162	1
+ss_38	1048	Picture	1;2;1;	1	2	1				41841821	0	1	3339	1	0	next	false_alarm	503
+ss_38	1048	Response	2							41845080	3260	1
+ss_38	1050	Picture	1;2;1;1;stand;	1	2	1	1	stand		41848500	0	6	20037	6	0	next	other	0
+ss_38	1052	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	41871710	0	6	10019	6	0	next	other	0
+ss_38	1054	Response	3							42220560	8716	1
+ss_38	1056	Picture	1;1;2;	1	1	2				42224534	0	1	3006	1	0	next	false_alarm	508
+ss_38	1056	Response	1							42227400	2866	1
+ss_38	1058	Picture	1;1;2;1;stand;	1	1	2	1	stand		42231881	0	6	20037	6	0	next	other	0
+ss_38	1060	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	42256260	0	6	10019	6	0	next	other	0
+ss_38	1067	Response	3							42605879	9986	1
+ss_38	1069	Picture	1;1;2;	1	1	2				42610253	0	1	3173	1	0	next	false_alarm	513
+ss_38	1069	Response	1							42613279	3026	1
+ss_38	1071	Picture	1;1;2;1;stand;	1	1	2	1	stand		42617099	0	6	20037	6	0	next	other	0
+ss_38	1073	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	42640142	0	6	10019	6	0	next	other	0
+ss_38	1075	Response	3							42990198	9923	1
+ss_38	1077	Picture	1;2;1;	1	2	1				42993467	0	1	4007	1	0	next	false_alarm	518
+ss_38	1077	Response	2							42997318	3851	1
+ss_38	1079	Picture	1;2;1;1;stand;	1	2	1	1	stand		43001816	0	6	20037	7	0	next	other	0
+ss_38	1081	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	43026195	0	6	10019	6	0	next	other	0
+ss_38	1083	Response	3							43374877	8549	1
+ss_38	1085	Picture	1;2;1;	1	2	1				43378852	0	1	4174	1	0	next	false_alarm	523
+ss_38	1085	Response	2							43382837	3985	1
+ss_38	1087	Picture	1;2;1;1;stand;	1	2	1	1	stand		43386700	0	6	20037	6	0	next	other	0
+ss_38	1089	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	43411580	0	6	10019	6	0	next	other	0
+ss_38	1096	Response	3							43767917	16704	1
+ss_38	1098	Picture	1;1;2;	1	1	2				43772753	0	1	6011	1	0	next	false_alarm	528
+ss_38	1098	Response	1							43778637	5884	1
+ss_38	1100	Picture	1;1;2;1;stand;	1	1	2	1	stand		43782605	0	6	20037	6	0	next	other	0
+ss_38	1102	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	43806649	0	6	10019	6	0	next	other	0
+ss_38	1104	Response	3							44159916	13133	1
+ss_38	1106	Picture	1;2;1;	1	2	1				44164817	0	1	3507	1	0	next	false_alarm	533
+ss_38	1106	Response	2							44168236	3419	0
+ss_38	1108	Picture	1;2;1;1;stand;	1	2	1	1	stand		44171997	0	6	20037	6	0	next	other	0
+ss_38	1110	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	44196376	0	6	10019	6	0	next	other	0
+ss_38	1112	Response	3							44546036	9526	1
+ss_38	1114	Picture	1;2;1;	1	2	1				44549868	0	1	3673	1	0	next	false_alarm	538
+ss_38	1114	Response	2							44553356	3487	1
+ss_38	1116	Picture	1;2;1;1;stand;	1	2	1	1	stand		44556714	0	6	20037	6	0	next	other	0
+ss_38	1118	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	44581260	0	7	10019	7	0	next	other	0
+ss_38	1125	Response	3							44933755	12862	1
+ss_38	1127	Picture	1;2;1;	1	2	1				44938760	0	1	4007	1	0	next	false_alarm	543
+ss_38	1127	Response	2							44942555	3795	1
+ss_38	1129	Picture	1;2;1;1;stand;	1	2	1	1	stand		44947109	0	7	20037	7	0	next	other	0
+ss_38	1131	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	44971153	0	6	10019	7	0	next	other	0
+ss_38	1133	Response	3							46335753	1024465	1
+ss_38	1135	Picture	1;1;2;	1	1	2				46340539	0	1	3340	1	0	next	false_alarm	548
+ss_38	1135	Response	1							46343752	3213	1
+ss_38	1137	Picture	1;1;2;1;sit;	1	1	2	1	sit		46348053	0	6	20037	6	0	next	other	0
+ss_38	1139	Picture	1;1;2;1;sit;true;	1	1	2	1	sit	true	46372933	0	6	10019	6	0	next	other	0
+ss_38	1146	Response	3							46746312	33746	1
+ss_38	1148	Picture	1;2;1;	1	2	1				46750470	0	1	4174	1	0	next	false_alarm	553
+ss_38	1148	Response	2							46754432	3962	1
+ss_38	1150	Picture	1;2;1;1;stand;	1	2	1	1	stand		46757817	0	6	20037	6	0	next	other	0
+ss_38	1152	Picture	1;2;1;1;stand;true;	1	2	1	1	stand	true	46782864	0	6	10019	6	0	next	other	0
+ss_38	1159	Response	3							47130871	8374	1
+ss_38	1161	Picture	1;2;1;	1	2	1				47135855	0	1	3506	1	0	next	false_alarm	558
+ss_38	1161	Response	2							47139191	3336	1
+ss_38	1163	Picture	1;2;1;1;stand;	1	2	1	1	stand		47144037	0	6	20037	7	0	next	other	0
+ss_38	1165	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	47168750	0	6	10019	6	0	next	other	0
+ss_38	1167	Response	3							47514110	5226	1
+ss_38	1169	Picture	1;1;2;	1	1	2				47517566	0	1	2839	1	0	next	false_alarm	563
+ss_38	1169	Response	1							47520310	2744	0
+ss_38	1171	Picture	1;1;2;1;stand;	1	1	2	1	stand		47523578	0	6	20037	6	0	next	other	0
+ss_38	1173	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	47547289	0	6	10019	6	0	next	other	0
+ss_38	1175	Response	3							47899510	12087	1
+ss_38	1177	Picture	1;2;1;	1	2	1				47903452	0	1	3340	1	0	next	false_alarm	568
+ss_38	1177	Response	2							47906590	3137	1
+ss_38	1179	Picture	1;2;1;1;stand;	1	2	1	1	stand		47911300	0	6	20037	6	0	next	other	0
+ss_38	1181	Picture	1;2;1;1;stand;false;	1	2	1	1	stand	false	47935846	0	6	10019	7	0	next	other	0
+ss_38	1183	Response	3							48284469	8489	1
+ss_38	1185	Picture	1;1;2;	1	1	2				48288503	0	1	4341	1	0	next	false_alarm	573
+ss_38	1185	Response	2							48292788	4285	1
+ss_38	1187	Picture	1;1;2;2;stand;	1	1	2	2	stand		48297520	0	6	20037	6	0	next	other	0
+ss_38	1189	Picture	1;1;2;2;stand;false;	1	1	2	2	stand	false	48322400	0	6	10019	6	0	next	other	0
+ss_38	1191	Response	3							48673668	11134	1
+ss_38	1193	Picture	1;2;1;	1	2	1				48678230	0	1	3507	1	0	next	false_alarm	578
+ss_38	1193	Response	1							48681548	3319	1
+ss_38	1195	Picture	1;2;1;2;sit;	1	2	1	2	sit		48685410	0	6	20037	6	0	next	other	0
+ss_38	1197	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	48708787	0	6	10019	6	0	next	other	0
+ss_38	1199	Response	3							49057108	8187	0
+ss_38	1201	Picture	1;1;2;	1	1	2				49061444	0	1	4174	1	0	next	false_alarm	583
+ss_38	1201	Response	2							49065508	4064	1
+ss_38	1203	Picture	1;1;2;2;sit;	1	1	2	2	sit		49069793	0	7	20037	7	0	next	other	0
+ss_38	1205	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	49094840	0	6	10019	6	0	next	other	0
+ss_38	1207	Response	3							49454826	19853	0
+ss_38	1209	Picture	1;2;1;	1	2	1				49458685	0	1	3674	1	0	next	false_alarm	588
+ss_38	1209	Response	1							49462267	3582	1
+ss_38	1211	Picture	1;2;1;2;sit;	1	2	1	2	sit		49467368	0	6	20037	6	0	next	other	0
+ss_38	1213	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	49492414	0	6	10019	7	0	next	other	0
+ss_38	1215	Response	3							49838466	5918	1
+ss_38	1217	Picture	1;1;2;	1	1	2				49841732	0	1	3507	1	0	next	false_alarm	593
+ss_38	1217	Response	2							49845146	3414	1
+ss_38	1219	Picture	1;1;2;2;sit;	1	1	2	2	sit		49849246	0	6	20037	6	0	next	other	0
+ss_38	1221	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	49873625	0	6	10019	6	0	next	other	0
+ss_38	1223	Response	3							50222865	9107	1
+ss_38	1225	Picture	1;2;1;	1	2	1				50226783	0	1	3507	1	0	next	false_alarm	598
+ss_38	1225	Response	1							50230225	3442	0
+ss_38	1227	Picture	1;2;1;2;sit;	1	2	1	2	sit		50233629	0	6	20037	6	0	next	other	0
+ss_38	1229	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	50257507	0	6	10019	6	0	next	other	0
+ss_38	1236	Response	3							50640105	42965	1
+ss_38	1238	Picture	1;1;2;	1	1	2				50644395	0	1	3507	1	0	next	false_alarm	603
+ss_38	1238	Response	2							50647705	3310	1
+ss_38	1240	Picture	1;1;2;2;sit;	1	1	2	2	sit		50652410	0	6	20037	6	0	next	other	0
+ss_38	1242	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	50675954	0	6	10019	6	0	next	other	0
+ss_38	1249	Response	3							51042344	26757	1
+ss_38	1251	Picture	1;1;2;	1	1	2				51045977	0	1	3507	1	0	next	false_alarm	608
+ss_38	1251	Response	2							51049344	3367	1
+ss_38	1253	Picture	1;1;2;2;sit;	1	1	2	2	sit		51052656	0	6	20037	6	0	next	other	0
+ss_38	1255	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	51076701	0	6	10019	7	0	next	other	0
+ss_38	1262	Response	3							51449903	33570	1
+ss_38	1264	Picture	1;2;1;	1	2	1				51454071	0	1	4842	1	0	next	false_alarm	613
+ss_38	1264	Response	1							51458703	4632	1
+ss_38	1266	Picture	1;2;1;2;sit;	1	2	1	2	sit		51462086	0	6	20037	6	0	next	other	0
+ss_38	1268	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	51486798	0	6	10019	7	0	next	other	0
+ss_38	1275	Response	3							51857062	30631	1
+ss_38	1277	Picture	1;2;1;	1	2	1				51861163	0	1	3840	1	0	next	false_alarm	618
+ss_38	1277	Response	1							51864902	3739	0
+ss_38	1279	Picture	1;2;1;2;sit;	1	2	1	2	sit		51869512	0	6	20037	6	0	next	other	0
+ss_38	1281	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	51893389	0	6	10019	6	0	next	other	0
+ss_38	1283	Response	3							52243182	9658	1
+ss_38	1285	Picture	1;1;2;	1	1	2				52248385	0	1	3506	1	0	next	false_alarm	623
+ss_38	1285	Response	1							52251822	3437	1
+ss_38	1287	Picture	1;1;2;1;stand;	1	1	2	1	stand		52255899	0	6	20037	7	0	next	other	0
+ss_38	1289	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	52280945	0	6	10019	6	0	next	other	0
+ss_38	1291	Response	3							52638901	17822	1
+ss_38	1293	Picture	1;1;2;	1	1	2				52643454	0	1	4007	1	0	next	false_alarm	628
+ss_38	1293	Response	2							52647341	3887	0
+ss_38	1295	Picture	1;1;2;2;sit;	1	1	2	2	sit		52650968	0	6	20037	6	0	next	other	0
+ss_38	1297	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	52675013	0	6	10019	6	0	next	other	0
+ss_38	1304	Response	3							53047420	32774	1
+ss_38	1306	Picture	1;1;2;	1	1	2				53050713	0	1	4007	1	0	next	false_alarm	633
+ss_38	1306	Response	2							53054580	3867	1
+ss_38	1308	Picture	1;1;2;2;sit;	1	1	2	2	sit		53059563	0	6	20037	6	0	next	other	0
+ss_38	1310	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	53084443	0	6	10019	6	0	next	other	0
+ss_38	1317	Response	3							53455939	31864	1
+ss_38	1319	Picture	1;1;2;	1	1	2				53459308	0	1	5510	1	0	next	false_alarm	638
+ss_38	1319	Response	2							53464659	5351	0
+ss_38	1321	Picture	1;1;2;2;sit;	1	1	2	2	sit		53469494	0	7	20038	7	0	next	other	0
+ss_38	1323	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	53493706	0	6	10019	6	0	next	other	0
+ss_38	1325	Response	3							53844819	10979	1
+ss_38	1327	Picture	1;2;1;	1	2	1				53848701	0	1	4007	1	0	next	false_alarm	643
+ss_38	1327	Response	1							53852539	3838	0
+ss_38	1329	Picture	1;2;1;2;stand;	1	2	1	2	stand		53857217	0	6	20037	6	0	next	other	0
+ss_38	1331	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	53882096	0	6	10019	6	0	next	other	0
+ss_38	1338	Response	3							54236578	14849	1
+ss_38	1340	Picture	1;1;2;	1	1	2				54240097	0	1	3507	1	0	next	false_alarm	648
+ss_38	1340	Response	2							54243418	3321	0
+ss_38	1342	Picture	1;1;2;2;stand;	1	1	2	2	stand		54248613	0	6	20037	6	0	next	other	0
+ss_38	1344	Picture	1;1;2;2;stand;true;	1	1	2	2	stand	true	54273493	0	6	10019	7	0	next	other	0
+ss_38	1351	Response	3							54616938	3812	1
+ss_38	1353	Picture	1;2;1;	1	2	1				54620640	0	1	3841	1	0	next	false_alarm	653
+ss_38	1353	Response	1							54624377	3738	1
+ss_38	1355	Picture	1;2;1;2;sit;	1	2	1	2	sit		54628655	0	6	20037	7	0	next	other	0
+ss_38	1357	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	54652031	0	6	10019	6	0	next	other	0
+ss_38	1359	Response	3							55001056	8891	1
+ss_38	1361	Picture	1;1;2;	1	1	2				55005524	0	1	3340	1	0	next	false_alarm	658
+ss_38	1361	Response	2							55008777	3253	0
+ss_38	1363	Picture	1;1;2;2;sit;	1	1	2	2	sit		55012537	0	6	20037	6	0	next	other	0
+ss_38	1365	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	55037416	0	6	10019	6	0	next	other	0
+ss_38	1372	Response	3							55423536	46486	1
+ss_38	1374	Picture	1;2;1;	1	2	1				55428145	0	1	2839	1	0	next	false_alarm	663
+ss_38	1374	Response	1							55430776	2631	1
+ss_38	1376	Picture	1;2;1;2;sit;	1	2	1	2	sit		55434490	0	7	20037	7	0	next	other	0
+ss_38	1378	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	55458034	0	6	10019	6	0	next	other	0
+ss_38	1380	Response	3							55807135	8967	1
+ss_38	1382	Picture	1;2;1;	1	2	1				55812194	0	1	3006	1	0	next	false_alarm	668
+ss_38	1382	Response	1							55815135	2941	1
+ss_38	1384	Picture	1;2;1;2;sit;	1	2	1	2	sit		55818539	0	6	20037	7	0	next	other	0
+ss_38	1386	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	55842083	0	6	10019	6	0	next	other	0
+ss_38	1388	Response	3							56188415	6198	1
+ss_38	1390	Picture	1;2;1;	1	2	1				56191902	0	1	3006	1	0	next	false_alarm	673
+ss_38	1390	Response	1							56194694	2793	1
+ss_38	1392	Picture	1;2;1;2;stand;	1	2	1	2	stand		56198080	0	6	20037	6	0	next	other	0
+ss_38	1394	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	56222960	0	6	10019	6	0	next	other	0
+ss_38	1401	Response	3							56591294	28701	1
+ss_38	1403	Picture	1;1;2;	1	1	2				56595988	0	1	3841	1	0	next	false_alarm	678
+ss_38	1403	Response	2							56599694	3706	1
+ss_38	1405	Picture	1;1;2;2;sit;	1	1	2	2	sit		56603168	0	7	20037	7	0	next	other	0
+ss_38	1407	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	56627213	0	6	10019	6	0	next	other	0
+ss_38	1414	Response	3							56996533	29687	1
+ss_38	1416	Picture	1;1;2;	1	1	2				57001244	0	1	3507	1	0	next	false_alarm	683
+ss_38	1416	Response	2							57004613	3370	1
+ss_38	1418	Picture	1;1;2;2;sit;	1	1	2	2	sit		57008758	0	6	20037	6	0	next	other	0
+ss_38	1420	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	57033637	0	6	10019	6	0	next	other	0
+ss_38	1427	Response	3							57399172	25902	1
+ss_38	1429	Picture	1;1;2;	1	1	2				57403493	0	1	3841	1	0	next	false_alarm	688
+ss_38	1429	Response	2							57407172	3679	1
+ss_38	1431	Picture	1;1;2;2;sit;	1	1	2	2	sit		57411341	0	6	20037	6	0	next	other	0
+ss_38	1433	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	57435553	0	6	10019	6	0	next	other	0
+ss_38	1440	Response	3							57803852	28666	1
+ss_38	1442	Picture	1;2;1;	1	2	1				57807580	0	1	3006	1	0	next	false_alarm	693
+ss_38	1442	Response	1							57810452	2872	1
+ss_38	1444	Picture	1;2;1;2;sit;	1	2	1	2	sit		57815261	0	6	20037	6	0	next	other	0
+ss_38	1446	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	57838972	0	6	10019	6	0	next	other	0
+ss_38	1448	Response	3							58185691	6585	1
+ss_38	1450	Picture	1;2;1;	1	2	1				58188957	0	1	6178	1	0	next	false_alarm	698
+ss_38	1450	Response	1							58195011	6054	1
+ss_38	1452	Picture	1;2;1;2;sit;	1	2	1	2	sit		58199811	0	6	20037	6	0	next	other	0
+ss_38	1454	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	58223522	0	6	10019	6	0	next	other	0
+ss_38	1456	Response	3							58580570	16914	1
+ss_38	1458	Picture	1;2;1;	1	2	1				58584862	0	1	3006	1	0	next	false_alarm	703
+ss_38	1458	Response	1							58587770	2908	1
+ss_38	1460	Picture	1;2;1;2;sit;	1	2	1	2	sit		58592877	0	6	20037	6	0	next	other	0
+ss_38	1462	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	58617256	0	6	10019	6	0	next	other	0
+ss_38	1464	Response	3							58967410	10020	1
+ss_38	1466	Picture	1;2;1;	1	2	1				58972585	0	1	3340	1	0	next	false_alarm	708
+ss_38	1466	Response	1							58975729	3145	1
+ss_38	1468	Picture	1;2;1;2;stand;	1	2	1	2	stand		58979765	0	7	20037	7	0	next	other	0
+ss_38	1470	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	59004811	0	6	10019	6	0	next	other	0
+ss_38	1477	Response	3							59351689	7244	1
+ss_38	1479	Picture	1;2;1;	1	2	1				59355966	0	1	2839	1	0	next	false_alarm	713
+ss_38	1479	Response	1							59358689	2723	1
+ss_38	1481	Picture	1;2;1;2;sit;	1	2	1	2	sit		59362979	0	6	20037	6	0	next	other	0
+ss_38	1483	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	59386857	0	6	10019	6	0	next	other	0
+ss_38	1490	Response	3							59744808	18318	1
+ss_38	1492	Picture	1;1;2;	1	1	2				59749867	0	1	4675	1	0	next	false_alarm	718
+ss_38	1492	Response	2							59754408	4541	1
+ss_38	1494	Picture	1;1;2;2;stand;	1	1	2	2	stand		59759552	0	6	20037	6	0	next	other	0
+ss_38	1496	Picture	1;1;2;2;stand;true;	1	1	2	2	stand	true	59784598	0	6	10019	6	0	next	other	0
+ss_38	1503	Response	3							60140287	16056	1
+ss_38	1505	Picture	1;1;2;	1	1	2				60145104	0	1	4675	1	0	next	false_alarm	723
+ss_38	1505	Response	1							60149727	4624	1
+ss_38	1507	Picture	1;1;2;1;stand;	1	1	2	1	stand		60154788	0	6	20037	6	0	next	other	0
+ss_38	1509	Picture	1;1;2;1;stand;false;	1	1	2	1	stand	false	60179501	0	6	10019	7	0	next	other	0
+ss_38	1511	Response	3							61640405	1120770	1
+ss_38	1513	Picture	1;1;2;	1	1	2				61644231	0	1	4341	1	0	next	false_alarm	728
+ss_38	1513	Response	2							61648365	4134	0
+ss_38	1515	Picture	1;1;2;2;sit;	1	1	2	2	sit		61653248	0	6	20037	6	0	next	other	0
+ss_38	1517	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	61677293	0	6	10019	6	0	next	other	0
+ss_38	1524	Response	3							62044484	27558	0
+ss_38	1526	Picture	1;1;2;	1	1	2				62047817	0	1	5343	1	0	next	false_alarm	733
+ss_38	1526	Response	2							62053044	5227	1
+ss_38	1528	Picture	1;1;2;2;sit;	1	1	2	2	sit		62056667	0	6	20037	6	0	next	other	0
+ss_38	1530	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	62080878	0	7	10019	7	0	next	other	0
+ss_38	1537	Response	3							62454323	33812	1
+ss_38	1539	Picture	1;2;1;	1	2	1				62457915	0	1	2839	1	0	next	false_alarm	738
+ss_38	1539	Response	1							62460683	2769	1
+ss_38	1541	Picture	1;2;1;2;stand;	1	2	1	2	stand		62464260	0	6	20037	6	0	next	other	0
+ss_38	1543	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	62488806	0	6	10019	7	0	next	other	0
+ss_38	1550	Response	3							62846403	17964	1
+ss_38	1552	Picture	1;2;1;	1	2	1				62851314	0	1	3173	1	0	next	false_alarm	743
+ss_38	1552	Response	1							62854363	3048	1
+ss_38	1554	Picture	1;2;1;2;stand;	1	2	1	2	stand		62859162	0	6	20037	6	0	next	other	0
+ss_38	1556	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	62884209	0	6	10019	6	0	next	other	0
+ss_38	1563	Response	3							63233562	9720	1
+ss_38	1565	Picture	1;2;1;	1	2	1				63237534	0	1	3340	1	0	next	false_alarm	748
+ss_38	1565	Response	1							63240802	3267	1
+ss_38	1567	Picture	1;2;1;2;sit;	1	2	1	2	sit		63244547	0	6	20037	6	0	next	other	0
+ss_38	1569	Picture	1;2;1;2;sit;false;	1	2	1	2	sit	false	63269594	0	6	10019	6	0	next	other	0
+ss_38	1571	Response	3							63621441	11713	1
+ss_38	1573	Picture	1;1;2;	1	1	2				63625257	0	1	3841	1	0	next	false_alarm	753
+ss_38	1573	Response	2							63628921	3664	1
+ss_38	1575	Picture	1;1;2;2;sit;	1	1	2	2	sit		63633773	0	6	20037	6	0	next	other	0
+ss_38	1577	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	63657317	0	6	10019	7	0	next	other	0
+ss_38	1579	Response	3							64002800	5349	1
+ss_38	1581	Picture	1;1;2;	1	1	2				64007470	0	1	4341	1	0	next	false_alarm	758
+ss_38	1581	Response	2							64011601	4131	1
+ss_38	1583	Picture	1;1;2;2;sit;	1	1	2	2	sit		64015484	0	6	20037	6	0	next	other	0
+ss_38	1585	Picture	1;1;2;2;sit;true;	1	1	2	2	sit	true	64039195	0	6	10019	7	0	next	other	0
+ss_38	1592	Response	3							64411960	33131	1
+ss_38	1594	Picture	1;2;1;	1	2	1				64415730	0	1	3340	1	0	next	false_alarm	763
+ss_38	1594	Response	1							64418920	3189	1
+ss_38	1596	Picture	1;2;1;2;sit;	1	2	1	2	sit		64423912	0	6	20037	6	0	next	other	0
+ss_38	1598	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	64448458	0	6	10019	6	0	next	other	0
+ss_38	1605	Response	3							64826719	38628	1
+ss_38	1607	Picture	1;2;1;	1	2	1				64831672	0	1	3507	1	0	next	false_alarm	768
+ss_38	1607	Response	1							64834999	3326	1
+ss_38	1609	Picture	1;2;1;2;sit;	1	2	1	2	sit		64838852	0	6	20037	6	0	next	other	0
+ss_38	1611	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	64863899	0	6	10019	6	0	next	other	0
+ss_38	1618	Response	3							65233078	29546	1
+ss_38	1620	Picture	1;1;2;	1	1	2				65237930	0	1	4007	1	0	next	false_alarm	773
+ss_38	1620	Response	2							65241758	3829	1
+ss_38	1622	Picture	1;1;2;2;sit;	1	1	2	2	sit		65245277	0	6	20037	6	0	next	other	0
+ss_38	1624	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	65268654	0	6	10019	7	0	next	other	0
+ss_38	1626	Response	3							65625318	16530	1
+ss_38	1628	Picture	1;2;1;	1	2	1				65629326	0	1	4174	1	0	next	false_alarm	778
+ss_38	1628	Response	1							65633358	4032	1
+ss_38	1630	Picture	1;2;1;2;sit;	1	2	1	2	sit		65636673	0	6	20037	7	0	next	other	0
+ss_38	1632	Picture	1;2;1;2;sit;true;	1	2	1	2	sit	true	65661219	0	6	10019	6	0	next	other	0
+ss_38	1639	Response	3							66033917	33065	1
+ss_38	1641	Picture	1;1;2;	1	1	2				66037754	0	1	4341	1	0	next	false_alarm	783
+ss_38	1641	Response	2							66041957	4203	1
+ss_38	1643	Picture	1;1;2;2;stand;	1	1	2	2	stand		66046270	0	6	20037	6	0	next	other	0
+ss_38	1645	Picture	1;1;2;2;stand;false;	1	1	2	2	stand	false	66069647	0	6	10019	6	0	next	other	0
+ss_38	1647	Response	3							66424876	15095	0
+ss_38	1649	Picture	1;1;2;	1	1	2				66428315	0	1	4007	1	0	next	false_alarm	788
+ss_38	1649	Response	2							66432276	3961	1
+ss_38	1651	Picture	1;1;2;2;sit;	1	1	2	2	sit		66436831	0	7	20037	7	0	next	other	0
+ss_38	1653	Picture	1;1;2;2;sit;false;	1	1	2	2	sit	false	66460709	0	6	10019	6	0	next	other	0
+ss_38	1655	Response	3							66808076	7233	1
+ss_38	1657	Picture	1;1;2;	1	1	2				66811529	0	1	3006	1	0	next	false_alarm	793
+ss_38	1657	Response	1							66814435	2906	1
+ss_38	1659	Picture	1;1;2;1;stand;	1	1	2	1	stand		66818876	0	6	20037	6	0	next	other	0
+ss_38	1661	Picture	1;1;2;1;stand;true;	1	1	2	1	stand	true	66842587	0	6	10019	6	0	next	other	0
+ss_38	1668	Response	3							67189515	7294	1
+ss_38	1670	Picture	1;2;1;	1	2	1				67192907	0	1	4842	1	0	next	false_alarm	798
+ss_38	1670	Response	1							67197595	4688	1
+ss_38	1672	Picture	1;2;1;2;stand;	1	2	1	2	stand		67201590	0	6	20037	7	0	next	other	0
+ss_38	1674	Picture	1;2;1;2;stand;true;	1	2	1	2	stand	true	67224800	0	6	10019	6	0	next	other	0
+
+
+{
+   "app": "Presentation Version 21.0 Build 06.06.19",
+   "device": "Dell Inc. OptiPlex 7040",
+   "experiment": "{783366C0-BBCE-4F44-80DE-11CDC1AD73DF}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "Case 686.sce",
+   "subject": "ss_38",
+   "timestamp": "2022/06/08 21:29:33 GMT"
+}
