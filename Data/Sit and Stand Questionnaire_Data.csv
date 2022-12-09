@@ -1,0 +1,410 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,SubID,Demographics,Demographics,Demographics,Demographics,Demographics,Demographics,Demographics,Fatigue - Previous,Fatigue - Previous,Fatigue - Previous,MFI - 21_1,MFI - 21_2,MFI - 21_3,MFI - 21_4,MFI - 21_5,MFI - 21_6,MFI - 21_7,MFI - 21_8,MFI - 21_9,MFI - 21_10,MFI - 21_11,MFI - 21_12,MFI - 21_13,MFI - 21_14,MFI - 21_15,MFI - 21_16,MFI - 21_17,MFI - 21_18,MFI - 21_19,MFI - 21_20,Fatigue - After,Fatigue - After,Fatigue - After,Borg Scale,Borg Scale,Coin preference,IPAQ - 1,IPAQ - 1_1_TEXT,IPAQ-2#1_1_1,IPAQ-2#1_1_2,IPAQ-2#2_1,IPAQ-3,IPAQ-3_1_TEXT,IPAQ-4#1_1_1,IPAQ-4#1_1_2,IPAQ-4#2_1,IPAQ-5,IPAQ-5_1_TEXT,IPAQ-6#1_1_1,IPAQ-6#1_1_2,IPAQ-6#2_1,IPAQ-7#1_1_1,IPAQ-7#1_1_2,IPAQ-7#2_1,IPAQ-1,IPAQ-2#1_1_1,IPAQ-2#1_1_2,IPAQ-2#2_1,IPAQ-3,IPAQ-4#1_1_1,IPAQ-4#1_1_2,IPAQ-4#2_1,IPAQ-5,IPAQ-6#1_1_1,IPAQ-6#1_1_2,IPAQ-6#2_1,IPAQ-7#1_1_1,IPAQ-7#1_1_2,IPAQ-7#2_1,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Attitudes,Exercise Dependence_1,Exercise Dependence_2,Exercise Dependence_3,Exercise Dependence_4,Exercise Dependence_5,Exercise Dependence_6,Exercise Dependence_7,Exercise Dependence_8,Exercise Dependence_9,Exercise Dependence_10,Exercise Dependence_11,Exercise Dependence_12,Exercise Dependence_13,Exercise Dependence_14,Exercise Dependence_15,Exercise Dependence_16,Exercise Dependence_17,Exercise Dependence_18,Exercise Dependence_19,Exercise Dependence_20,Exercise Dependence_21,Debriefing Question
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,Subject ID,Weight,Height (cm),Age:,Sex:,Do you have a physical impairment or disability that makes repeatedly standing and sitting difficult?,Do you have a history of skin allergy or sensitivity to lotions/cosmetics?,Do you have a neurological impairment?,"Right now, how fatigued are you?","Right now, I have no energy","Right now, I feel physically exhausted","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I feel fit.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - Physically, I feel only able to do a little.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I feel very active.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I feel like doing all sorts of nice things.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I feel tired.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I think I do a lot in a day.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - When I am doing something, I can keep my thoughts on it.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - Physically I can take on a lot.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I dread having to do things.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I think I do very little in a day.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I can concentrate well.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I am rested.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - It takes a lot of effort to concentrate on things.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - Physically I feel I am in a bad condition.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I have a lot of plans.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I tire easily.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I get little done.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - I don't feel like doing anything.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - My thoughts easily wander.","Instructions:
+ 
+
+By means of the following statements we would like to get an idea of how you have been feeling lately. 
+
+There is, for example, the statement:
+                                                 ""I FEEL RELAXED""
+
+If you think that this is entirely true, that indeed you have been feeling relaxed lately, please, select the extreme left circle; like this:
+
+ 
+
+
+
+
+
+The more you disagree with the statement, the more you can select circles in the direction of ""no, that is not true"". Please do not miss a statement and select only one circle for each statement. - Physically I feel I am in an excellent condition.","Right now, how fatigued are you?","Right now, I have no energy","Right now, I feel physically exhausted","Using the scale below, please indicate how effortful it was to retrieve a coin from the lower container (sitting position). Consider the time you spent retrieving the coin and the time you spent waiting for the next trial.","Using the scale below, please indicate how effortful it was to retrieve a coin from the upper container (standing position). Consider the time you spent retrieving the coin and the time you spent waiting for the next trial.",Did you prefer to retrieve coins sitting or standing? SELECT ONE.,"We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives. The questions will ask you about the time you spend being physically active in a typical week. Please answer each question even if you do not consider yourself to be an active person. Please think about the activities you do at work/school, as part of your house and yard work, to get from place to place, and in your spare time for recreation, exercise or sport. 
+Think about all the vigorous activities that you do in a typical week. Vigorous physical activities refer to activities that take hard physical effort and make you breathe much harder than normal. Think only about those physical activities that you do for at least 10 minutes at a time.
+
+During a typical week, on how many days do you do vigorous physical activities like heavy lifting, digging, aerobics, or fast bicycling? - Selected Choice","We are interested in finding out about the kinds of physical activities that people do as part of their everyday lives. The questions will ask you about the time you spend being physically active in a typical week. Please answer each question even if you do not consider yourself to be an active person. Please think about the activities you do at work/school, as part of your house and yard work, to get from place to place, and in your spare time for recreation, exercise or sport. 
+Think about all the vigorous activities that you do in a typical week. Vigorous physical activities refer to activities that take hard physical effort and make you breathe much harder than normal. Think only about those physical activities that you do for at least 10 minutes at a time.
+
+During a typical week, on how many days do you do vigorous physical activities like heavy lifting, digging, aerobics, or fast bicycling? - Days - Text",How much time do you usually spend doing vigorous physical activities on one of those days? - - - How much time do you usually spend doing vigorous physical activities on on... - How much time do you usually spend doing vigorous physical activities on one of those days? - hours per day,How much time do you usually spend doing vigorous physical activities on one of those days? - - - How much time do you usually spend doing vigorous physical activities on on... - How much time do you usually spend doing vigorous physical activities on one of those days? - minutes per day,How much time do you usually spend doing vigorous physical activities on one of those days? - - - How much time do you usually spend doing vigorous physical activities on one of those days?,"Think about all the moderate activities that you do in a typical week. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you do for at least 10 minutes at a time.
+During a typical week, on how many days do you do moderate physical activities like carrying light loads, bicycling at a regular pace, or doubles tennis? Do not include walking. - Selected Choice","Think about all the moderate activities that you do in a typical week. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you do for at least 10 minutes at a time.
+During a typical week, on how many days do you do moderate physical activities like carrying light loads, bicycling at a regular pace, or doubles tennis? Do not include walking. - Days - Text",How much time do you usually spend doing moderate physical activities on one of those days? - - - How much time do you usually spend doing moderate physical activities on on... - How much time do you usually spend doing moderate physical activities on one of those days? - hours per day,How much time do you usually spend doing moderate physical activities on one of those days? - - - How much time do you usually spend doing moderate physical activities on on... - How much time do you usually spend doing moderate physical activities on one of those days? - minutes per day,How much time do you usually spend doing moderate physical activities on one of those days? - - - How much time do you usually spend doing moderate physical activities on one of those days?,"Think about the time you spend walking in a typical week. This includes at work/school and at home, walking to travel from place to place, and any other walking that you do solely for recreation, sport, exercise, or leisure.
+During a typical week, on how many days do you walk for at least 10 minutes at a time? - Selected Choice","Think about the time you spend walking in a typical week. This includes at work/school and at home, walking to travel from place to place, and any other walking that you do solely for recreation, sport, exercise, or leisure.
+During a typical week, on how many days do you walk for at least 10 minutes at a time? - Days - Text",How much time do you usually spend walking on one of those days? - - - How much time do you usually spend walking on one of those days? - hours per day,How much time do you usually spend walking on one of those days? - - - How much time do you usually spend walking on one of those days? - minutes per day,How much time do you usually spend walking on one of those days? - - - How much time do you usually spend walking on one of those days?,"The last question is about the time you spend sitting during a typical week. Include time spent s... - - - During a typical week, how much time do you spend sitting? - hours per day","The last question is about the time you spend sitting during a typical week. Include time spent s... - - - During a typical week, how much time do you spend sitting? - minutes per day","The last question is about the time you spend sitting during a typical week. Include time spent s... - - - During a typical week, how much time do you spend sitting?","We are interested in finding out about the kinds of physical activities that people have done recently. The questions will ask you about the time you spent being physically active today. Please answer each question even if you do not consider yourself to be an active person. Please think about the activities you do at work/school, as part of your house and yard work, to get from place to place, and in your spare time for recreation, exercise or sport. 
+Think about all the vigorous activities that you have done today. Vigorous physical activities refer to activities that take hard physical effort and make you breathe much harder than normal. Think only about those physical activities that you did for at least 10 minutes at a time.
+
+Today, did you do vigorous physical activities like heavy lifting, digging, aerobics, or fast bicycling?",How much time did you spend doing vigorous physical activities? - - - How much time did you spend doing vigorous physical activities? - hours,How much time did you spend doing vigorous physical activities? - - - How much time did you spend doing vigorous physical activities? - minutes,How much time did you spend doing vigorous physical activities? - - - How much time did you spend doing vigorous physical activities?,"Think about all the moderate activities that you did today. Moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. Think only about those physical activities that you did for at least 10 minutes at a time.
+Today, did you do moderate physical activities like carrying light loads, bicycling at a regular pace, or doubles tennis? Do not include walking.",How much time did you spend doing moderate physical activities? - - - How much time did you spend doing moderate physical activities? - hours,How much time did you spend doing moderate physical activities? - - - How much time did you spend doing moderate physical activities? - minutes,How much time did you spend doing moderate physical activities? - - - How much time did you spend doing moderate physical activities?,"Think about the time you spent walking today. This includes at work/school and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.
+Today, did you walk for at least 10 minutes at a time?",How much time did you spend walking? - - - How much time did you spend walking? - hours,How much time did you spend walking? - - - How much time did you spend walking? - minutes,How much time did you spend walking? - - - How much time did you spend walking?,"The last question is about the time you spent sitting today. Include time spent at work/school, a... - - - Today, how much time did you spend sitting? - hours","The last question is about the time you spent sitting today. Include time spent at work/school, a... - - - Today, how much time did you spend sitting? - minutes","The last question is about the time you spent sitting today. Include time spent at work/school, a... - - - Today, how much time did you spend sitting?",To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,To what extent do you believe exercise is:,"Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise to avoid feeling irritable.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise despite recurring physical problems.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I continually increase my exercise intensity to achieve the desired effects/benefits.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I am unable to reduce how long I exercise.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I would rather exercise than spend time with family/friends.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I spend a lot of time exercising.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise longer than I intend.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise to avoid feeling anxious.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise when injured.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I continually increase my exercise frequency to achieve the desired effects/benefits.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I am unable to reduce how often I exercise.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I think about exercise when I should be concentrating on school/work.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I spend most of my free time exercising.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise longer than I expect.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise to avoid feeling tense.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise despite persistent physical problems.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I continually increase my exercise duration to achieve the desired effects/benefits.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I am unable to reduce how intense I exercise.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I choose to exercise so that I can get out of spending time with family/friends.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - A great deal of my time is spent exercising.","Instructions. Using the scale provided below, please complete the following questions as honestly as possible. The questions refer to current exercise beliefs and behaviors that have occurred in the past 3 months. Please select your response using the scale next to each statement. - I exercise longer than I plan.",One of the squares was more likely to result in stand trials than sit trials. Were you aware of this?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26_TEXT""}","{""ImportId"":""QID27_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID43""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID24_2""}","{""ImportId"":""QID24_3""}","{""ImportId"":""QID24_4""}","{""ImportId"":""QID24_5""}","{""ImportId"":""QID24_6""}","{""ImportId"":""QID24_7""}","{""ImportId"":""QID24_8""}","{""ImportId"":""QID24_9""}","{""ImportId"":""QID24_10""}","{""ImportId"":""QID24_11""}","{""ImportId"":""QID24_12""}","{""ImportId"":""QID24_13""}","{""ImportId"":""QID24_14""}","{""ImportId"":""QID24_15""}","{""ImportId"":""QID24_16""}","{""ImportId"":""QID24_17""}","{""ImportId"":""QID24_18""}","{""ImportId"":""QID24_19""}","{""ImportId"":""QID24_20""}","{""ImportId"":""QID76""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID48""}","{""ImportId"":""QID48_1_TEXT""}","{""ImportId"":""QID52#1_1_1""}","{""ImportId"":""QID52#1_1_2""}","{""ImportId"":""QID52#2_1""}","{""ImportId"":""QID53""}","{""ImportId"":""QID53_1_TEXT""}","{""ImportId"":""QID54#1_1_1""}","{""ImportId"":""QID54#1_1_2""}","{""ImportId"":""QID54#2_1""}","{""ImportId"":""QID55""}","{""ImportId"":""QID55_1_TEXT""}","{""ImportId"":""QID56#1_1_1""}","{""ImportId"":""QID56#1_1_2""}","{""ImportId"":""QID56#2_1""}","{""ImportId"":""QID57#1_1_1""}","{""ImportId"":""QID57#1_1_2""}","{""ImportId"":""QID57#2_1""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60#1_1_1""}","{""ImportId"":""QID60#1_1_2""}","{""ImportId"":""QID60#2_1""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62#1_1_1""}","{""ImportId"":""QID62#1_1_2""}","{""ImportId"":""QID62#2_1""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64#1_1_1""}","{""ImportId"":""QID64#1_1_2""}","{""ImportId"":""QID64#2_1""}","{""ImportId"":""QID65#1_1_1""}","{""ImportId"":""QID65#1_1_2""}","{""ImportId"":""QID65#2_1""}","{""ImportId"":""QID32""}","{""ImportId"":""QID34""}","{""ImportId"":""QID40""}","{""ImportId"":""QID39""}","{""ImportId"":""QID38""}","{""ImportId"":""QID37""}","{""ImportId"":""QID36""}","{""ImportId"":""QID35""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID41_2""}","{""ImportId"":""QID41_3""}","{""ImportId"":""QID41_4""}","{""ImportId"":""QID41_5""}","{""ImportId"":""QID41_6""}","{""ImportId"":""QID41_7""}","{""ImportId"":""QID41_8""}","{""ImportId"":""QID41_9""}","{""ImportId"":""QID41_10""}","{""ImportId"":""QID41_11""}","{""ImportId"":""QID41_12""}","{""ImportId"":""QID41_13""}","{""ImportId"":""QID41_14""}","{""ImportId"":""QID41_15""}","{""ImportId"":""QID41_16""}","{""ImportId"":""QID41_17""}","{""ImportId"":""QID41_18""}","{""ImportId"":""QID41_19""}","{""ImportId"":""QID41_20""}","{""ImportId"":""QID41_21""}","{""ImportId"":""QID45""}"
+2021-09-24 06:47:25,2021-09-24 09:42:37,IP Address,100,10511,True,2021-09-24 09:42:37,R_3dX2MsTAH4NN8E6,email,EN,pilot_ss01,134,169,20,female,No,No,No,3,3,3,1,5,2,1,4,1,1,1,5,5,2,2,5,5,1,4,5,5,4,1,9,9,9,6,17 - Very hard,Sitting,Days,5,1,0,,Days,5,1,0,,Days,7,2,0,,6,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,10,,0,30,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),7,6 (Always),6 (Always),6 (Always),4,3,5,6 (Always),6 (Always),6 (Always),4,3,4,4,5,6 (Always),6 (Always),6 (Always),3,2,4,5,8
+2021-09-28 16:22:26,2021-09-28 19:14:35,IP Address,100,10329,True,2021-09-28 19:14:35,R_77jrSozCawbQtuF,email,EN,pilot_ss02,129.4,160,20,female,No,No,No,5,7,8,1,5,1,1,1,2,3,1,4,4,2,3,4,5,2,4,5,3,4,1,10 (Very much),10 (Completely agree),10 (Completely agree),"7 - Very, very light",13 - Somewhat hard,Sitting,Days,5,5,30,,Days,2,4,0,,Days,7,2,0,,6,0,,Yes,5,0,,Yes,1,0,,Yes,0,30,,2,30,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),6 (Always),3,1 (Never),6 (Always),4,5,5,3,3,2,2,2,5,6 (Always),3,2,3,6 (Always),4,7
+2021-10-05 16:04:02,2021-10-05 19:03:01,IP Address,100,10738,True,2021-10-05 19:03:01,R_2c1QoClQoJOUrc6,email,EN,Pilot_ss03,72.5,166,19,female,No,No,No,4,5,5,3,4,3,3,3,1,2,2,3,5,3,4,3,4,1,4,4,4,3,3,7,7,7,9 - Very light,13 - Somewhat hard,Sitting,No vigorous physical activities,,,,,Days,4,1,0,,Days,7,3,0,,5,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,3,0,,5,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),7,9 (Healthy),8,9 (Wise),9 (Interesting),3,1 (Never),4,2,2,3,3,4,1 (Never),3,2,2,1 (Never),2,4,1 (Never),2,1 (Never),1 (Never),2,2,1
+2021-10-12 15:47:17,2021-10-12 19:13:52,IP Address,100,12394,True,2021-10-12 19:13:52,R_1Ka6J26buD6SoEx,email,EN,pilot_ss04,59.9,161,20,female,No,No,No,3,3,1,3,4,4,2,3,1,2,2,4,5,3,3,3,5,2,4,5,4,3,2,7,7,8,6,13 - Somewhat hard,Sitting,No vigorous physical activities,,,,,Days,2,1,30,,Days,7,3,30,,8,30,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,3,10,,5,30,,9 (Useful),6,9 (Beneficial),5,9 (Healthy),6,8,6,3,4,2,1 (Never),1 (Never),2,1 (Never),3,1 (Never),3,2,1 (Never),2,2,4,1 (Never),2,2,1 (Never),1 (Never),1 (Never),0 (Not aware at all)
+2021-10-19 15:07:44,2021-10-19 19:00:55,Survey Preview,100,13990,True,2021-10-19 19:00:56,R_4GckrtMZWt7IdMJ,preview,EN,ss_01,169,165,20,female,No,No,No,4,2,3,2,5,1,1,2,1,2,1,5,5,2,4,4,4,1,2,5,4,4,1,10 (Very much),9,9,8,16,Sitting,Days,7,2,0,,Days,7,1,0,,Days,7,3,0,,6,0,,Yes,2,15,,Yes,0,30,,Yes,1,30,,4,30,,9 (Useful),9 (Enjoyable),9 (Beneficial),8,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),5,2,4,5,5,6 (Always),4,6 (Always),2,4,6 (Always),5,6 (Always),5,5,2,4,5,4,6
+2021-10-26 16:05:56,2021-10-26 19:10:32,IP Address,100,11076,True,2021-10-26 19:10:32,R_2SI7LZcirt3W0hW,email,EN,pilot_ss06,141.2,163,22,female,No,No,No,0 (Not at all),2,2,1,5,1,3,4,2,3,2,4,4,3,3,4,5,3,4,5,5,3,2,2,4,3,10,"7 - Very, very light",Sitting,Days,5,1,0,,Days,5,1,0,,Days,7,0,30,,5,0,,Yes,0,45,,Yes,0,30,,Yes,0,30,,5,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),8,9 (Healthy),9 (Satisfying),8,9 (Interesting),5,2,6 (Always),2,3,4,3,3,1 (Never),3,2,2,4,3,4,1 (Never),4,2,2,4,3,5
+2021-11-02 15:53:24,2021-11-02 19:03:56,IP Address,100,11431,True,2021-11-02 19:03:57,R_1QmResL5DFftOH2,email,EN,pilot_ss07,241,173.5,21,male,No,No,No,0 (Not at all),2,0 (Completely disagree),3,4,3,2,4,2,3,1,2,4,3,2,3,4,4,4,4,3,3,3,4,3,2,"7 - Very, very light",15 - Hard,Sitting,Days,3,1,0,,Days,2,2,0,,Days,2,0,30,,8,0,,No vigorous physical activities,,,,Yes,0,30,,Yes,0,30,,6,0,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),8,8,7,4,5,2,1 (Never),2,2,2,4,4,2,1 (Never),1 (Never),1 (Never),2,4,4,2,2,1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2021-11-09 15:21:19,2021-11-09 18:36:09,IP Address,100,11689,True,2021-11-09 18:36:10,R_1IXl2jhroh9RNjd,email,EN,pilot_ss09,116.2,169,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,2,2,4,1,2,2,4,4,2,2,4,4,2,4,5,4,4,2,5,3,2,9 - Very light,13 - Somewhat hard,Sitting,Days,4,1,0,,Days,5,1,0,,Days,7,2,0,,6,0,,Yes,1,0,,Yes,0,30,,Yes,2,0,,5,0,,9 (Useful),7,9 (Beneficial),7,9 (Healthy),7,9 (Wise),6,4,2,4,2,2,3,2,3,1 (Never),4,2,2,4,2,3,1 (Never),4,2,1 (Never),2,2,8
+2021-11-11 21:43:47,2021-11-11 21:50:22,Survey Preview,100,395,True,2021-11-11 21:50:23,R_2ZVVpEXqqh3mdBJ,preview,EN,Test,140,160,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0 (Not at all),0 (Completely disagree),0 (Completely disagree),6,6,Sitting,Days,1,1,0,,Days,1,1,1,,No walking,,,,,1,1,,Yes,1,1,,Yes,1,1,,Yes,1,1,,1,1,,1 (Useless),1 (Unenjoyable),1 (Harmful),1 (Unpleasant),1 (Unhealthy),1 (Unsatisfying),1 (Foolish),1 (Boring),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),0 (Not aware at all)
+2021-11-12 06:43:33,2021-11-12 09:44:05,Survey Preview,100,10831,True,2021-11-12 09:44:05,R_7UNz4hxPqPhwodX,preview,EN,Pilot_ss08,150,168,21,female,No,No,No,1,1,1,1,5,1,1,2,1,4,2,3,5,4,3,2,5,1,4,4,3,2,2,5,6,6,6,10,Sitting,Days,6,1,0,,Days,7,0,30,,Days,7,1,0,,4,0,,Yes,0,30,,No moderate physical activities,,,,No walking,,,,0,10,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),3,5,5,1 (Never),2,5,1 (Never),2,4,5,1 (Never),1 (Never),2,1 (Never),2,3,5,1 (Never),1 (Never),3,1 (Never),10 (Fully aware)
+2021-11-16 15:59:54,2021-11-16 18:54:21,IP Address,100,10466,True,2021-11-16 18:54:21,R_2B5Kz6AiWbWoUlE,email,EN,ss_01,170.8,160.5,19,female,No,No,No,0 (Not at all),1,0 (Completely disagree),2,5,2,2,3,2,3,2,4,5,2,2,2,5,2,4,4,4,4,2,3,3,3,"7 - Very, very light",11 - Fairly light,Sitting,Days,4,1,30,,Days,4,0,30,,Days,3,0,45,,5,30,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,45,,5,30,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),8,9 (Wise),8,3,2,4,2,1 (Never),2,3,4,1 (Never),3,1 (Never),2,2,3,4,1 (Never),3,1 (Never),1 (Never),2,3,7
+2021-11-17 15:52:23,2021-11-17 18:42:53,IP Address,100,10229,True,2021-11-17 18:42:53,R_3NX9VJzlAaAW8fE,email,EN,ss_02,134.2,158.5,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),2,4,2,2,5,2,2,2,4,4,3,1,4,5,1,4,4,4,2,2,4,3,3,6,14,Sitting,Days,3,1,30,,Days,5,3,00,,Days,5,2,00,,15,00,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,40,,4,00,,9 (Useful),7,9 (Beneficial),7,9 (Healthy),9 (Satisfying),9 (Wise),8,4,3,3,2,2,3,2,1 (Never),1 (Never),3,1 (Never),1 (Never),2,2,1 (Never),1 (Never),3,1 (Never),1 (Never),2,2,6
+2021-11-19 06:38:52,2021-11-19 09:51:15,IP Address,100,11543,True,2021-11-19 09:51:16,R_OvOCTpggFinbBnP,email,EN,ss_03,178.6,179,20,male,No,No,No,2,3,1,2,5,2,2,4,3,3,2,4,4,4,3,2,5,2,4,5,5,2,3,5,2,2,"7 - Very, very light",9 - Very light,Sitting,Days,3,3,0,,Days,5,4,0,,Days,7,2,0,,2,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,15,,1,0,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),8,5,2,4,2,2,4,3,5,2,4,2,2,2,3,3,2,3,2,1 (Never),3,3,0 (Not aware at all)
+2021-11-30 16:06:38,2021-11-30 19:05:46,IP Address,100,10747,True,2021-11-30 19:05:47,R_UrQ00Om7Dl7uaOd,email,EN,ss_04,55.9,153.5,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),3,5,3,2,3,2,2,3,4,4,2,2,4,4,2,4,4,4,3,4,4,2,0 (Completely disagree),"7 - Very, very light",11 - Fairly light,Sitting,Days,3,1,0,,No moderate physical activities,,,,,Days,7,0,30,,3,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,4,0,,9 (Useful),6,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),7,3,1 (Never),3,1 (Never),2,2,2,2,2,3,1 (Never),2,2,3,3,1 (Never),3,1 (Never),1 (Never),2,2,0 (Not aware at all)
+2021-12-03 07:10:54,2021-12-03 10:02:16,IP Address,100,10282,True,2021-12-03 10:02:17,R_3qVdsMVWBrbFwWp,email,EN,ss_05,89.8,185,22,male,No,No,No,0 (Not at all),1,1,1,5,1,2,4,2,2,1,4,4,4,1,2,5,2,4,5,5,4,2,2,2,2,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,7,1,30,,Days,7,2,00,,Days,7,2,00,,5,00,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,15,,0,30,,9 (Useful),8,9 (Beneficial),5,9 (Healthy),9 (Satisfying),8,8,4,2,5,2,2,5,2,4,2,6 (Always),2,2,5,3,6 (Always),1 (Never),6 (Always),2,2,5,2,7
+2021-12-07 16:07:16,2021-12-07 17:50:21,IP Address,100,6184,True,2021-12-07 17:50:22,R_3GDPqMalyXmkX6Z,email,EN,ss_06,107.2,182.5,22,male,No,No,No,0 (Not at all),1,0 (Completely disagree),3,4,3,3,4,3,2,2,4,3,2,2,4,4,2,3,4,3,3,4,1,1,1,11 - Fairly light,"7 - Very, very light",Standing,No vigorous physical activities,,,,,No moderate physical activities,,,,,No walking,,,,,NA,NA,Do not know/Not sure,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,NA,NA,Do not know/Not sure,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),10 (Fully aware)
+2022-01-27 14:30:32,2022-01-27 17:39:24,IP Address,100,11331,True,2022-01-27 17:39:24,R_pfRiFDiyKkcMno5,email,EN,ss_07,126.5,179.5,21,male,No,No,No,0 (Not at all),2,2,3,5,4,2,3,3,1,1,4,4,1,1,5,4,2,3,4,5,5,2,7,5,4,6,13 - Somewhat hard,Sitting,Days,4,1,0,,Days,7,1,0,,Days,7,1,0,,5,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,45,,2,0,,9 (Useful),5,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),6,5,5,5,1 (Never),2,3,3,2,3,4,2,2,1 (Never),2,4,3,4,2,3,3,3,10 (Fully aware)
+2022-02-01 14:40:27,2022-02-01 17:58:16,IP Address,100,11869,True,2022-02-01 17:58:17,R_C96OSmvPhGwpyKd,email,EN,ss_08,84.1,180.5,20,male,No,No,No,2,2,2,1,5,2,2,4,2,1,1,4,5,2,2,4,5,2,5,5,4,2,1,7,6,6,10,12,Sitting,Days,5,1,45,,Days,5,1,0,,Days,6,0,30,,5,0,,Yes,1,20,,No moderate physical activities,,,,Yes,0,10,,3,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),5,2,4,5,3,4,2,6 (Always),5,3,5,2,2,2,4,1 (Never),2,1 (Never),4,2,2,3
+2022-02-02 14:25:21,2022-02-02 17:44:48,IP Address,100,11966,True,2022-02-02 17:44:49,R_2WNlkdoQOyHzN1n,email,EN,ss_09,53.5,167.5,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),2,4,1,1,4,2,2,1,5,4,2,1,4,5,1,4,5,5,4,2,4,1,1,"7 - Very, very light",11 - Fairly light,Sitting,Days,5,1,30,,Days,7,2,0,,Days,7,3,0,,6,0,,No vigorous physical activities,,,,Yes,1,0,,Yes,2,0,,5,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),5,9 (Healthy),7,7,4,1 (Never),2,5,1 (Never),1 (Never),4,2,2,3,5,1 (Never),1 (Never),1 (Never),2,1 (Never),2,5,1 (Never),1 (Never),2,1 (Never),2
+2022-02-07 14:39:47,2022-02-07 17:37:58,IP Address,100,10691,True,2022-02-07 17:37:59,R_DIbgzideq4xF5LP,email,EN,ss_10,73.8,171,22,male,No,No,No,1,1,0 (Completely disagree),2,5,2,1,4,2,3,1,4,4,2,1,3,5,1,4,4,3,3,1,4,5,4,"7 - Very, very light",11 - Fairly light,Sitting,Days,2,2,120,,Days,1,0,30,,Days,3,2,120,,8,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,45,,4,0,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),4,5,5,6 (Always),2,2,4,1 (Never),4,2,5,2,1 (Never),2,1 (Never),4,2,1 (Never),1 (Never),4,2,1 (Never),9
+2022-02-09 14:36:41,2022-02-09 16:46:26,IP Address,100,7784,True,2022-02-09 16:46:26,R_XRCXUhatU9fnbDX,email,EN,ss_11,81.4,160.5,22,female,No,No,No,1,1,0 (Completely disagree),4,5,3,3,2,3,3,2,4,4,4,3,2,3,2,4,4,5,1,4,10 (Very much),9,9,15 - Hard,17 - Very hard,Standing,No vigorous physical activities,,,,,No moderate physical activities,,,,,No walking,,,,,NA,NA,Do not know/Not sure,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,NA,NA,Do not know/Not sure,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),10 (Fully aware)
+2022-02-10 11:45:44,2022-02-10 14:34:47,IP Address,100,10143,True,2022-02-10 14:34:47,R_2ClHSDOPUPfTRqC,email,EN,ss_12,68.8,153,21,female,No,No,No,4,3,3,2,4,2,1,3,1,3,3,3,5,3,1,4,5,3,4,4,4,1,2,3,2,2,9 - Very light,12,Sitting,Days,5,1,30,,Days,3,1,00,,Days,7,2,30,,15,00,,Yes,1,00,,Yes,0,30,,Yes,2,00,,4,00,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),3,3,6 (Always),3,3,4,3,2,1 (Never),6 (Always),2,3,6 (Always),3,2,1 (Never),2,1 (Never),1 (Never),2,2,6
+2022-02-15 11:52:52,2022-02-15 14:35:58,IP Address,100,9786,True,2022-02-15 14:35:58,R_3itbfCuJUmAUws6,email,EN,ss_13,106.4,157.7,25,female,No,No,No,1,0 (Completely disagree),0 (Completely disagree),4,4,3,2,5,3,3,3,4,4,2,2,4,3,1,5,5,5,4,3,7,4,1,6,14,Sitting,Days,3,2,0,,Days,6,9,0,,Days,7,10,0,,4,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,2,0,,9 (Useful),6,9 (Beneficial),6,9 (Healthy),6,9 (Wise),7,3,2,5,2,1 (Never),2,5,5,1 (Never),3,2,2,1 (Never),4,4,2,4,2,1 (Never),2,3,10 (Fully aware)
+2022-02-16 14:37:11,2022-02-16 16:37:34,IP Address,100,7222,True,2022-02-16 16:37:34,R_OJ89YKi3KHfLuEN,email,EN,ss_14,57,161.5,20,female,No,No,No,0 (Not at all),1,1,1,5,1,1,4,2,2,2,3,4,2,2,4,5,2,5,5,5,3,1,10 (Very much),9,9,16,14,Standing,No vigorous physical activities,,,,,No moderate physical activities,,,,,No walking,,,,,NA,NA,Do not know/Not sure,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,NA,NA,Do not know/Not sure,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),10 (Fully aware)
+2022-02-24 14:49:19,2022-02-24 17:38:46,IP Address,100,10166,True,2022-02-24 17:38:48,R_1Lp1JChQcR90Aq8,email,EN,ss_15,80.9,175.7,19,male,No,No,No,1,4,2,1,5,1,1,4,2,2,1,4,4,2,2,4,5,3,5,5,5,3,1,6,6,7,9 - Very light,12,Sitting,Days,6,2,0,,Days,2,0,40,,Days,7,2,0,,6,0,,Yes,2,0,,No moderate physical activities,,,,Yes,0,45,,4,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),8,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),2,6 (Always),4,5,6 (Always),4,4,2,4,4,6 (Always),5,5,5,2,3,3,3,5,3,8
+2022-03-02 14:40:30,2022-03-02 17:45:02,IP Address,100,11071,True,2022-03-02 17:45:03,R_1gUy8Tx5gxv0GQY,email,EN,ss_16,176,66.9,20,female,No,No,No,2,2,2,1,5,1,1,3,1,3,1,3,5,2,2,3,5,4,5,5,5,5,1,7,6,6,"7 - Very, very light",15 - Hard,Sitting,Days,9,4,0,,Days,2,2,0,,Days,3,1,0,,8,0,,No vigorous physical activities,,,,Yes,1,0,,Yes,1,0,,5,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),5,3,6 (Always),6 (Always),2,6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),6 (Always),3,6 (Always),6 (Always),3,6 (Always),6 (Always),3,6 (Always),6 (Always),0 (Not aware at all)
+2022-03-03 14:49:48,2022-03-03 17:33:42,IP Address,100,9834,True,2022-03-03 17:33:43,R_2WPxl9TU8mDivHV,email,EN,ss_17,100.5,175,20,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),3,5,3,3,4,3,1,3,4,4,1,3,5,3,3,5,5,2,3,3,6,0 (Completely disagree),6,9 - Very light,13 - Somewhat hard,Sitting,No vigorous physical activities,,,,,Days,7,2,0,,Days,7,1,00,,10,00,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,30,,5,00,,8,5,8,5,8,6,7,5,1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2022-03-14 14:39:36,2022-03-14 17:48:28,IP Address,100,11332,True,2022-03-14 17:48:29,R_27WPUXH046pDydq,email,EN,ss_18,82.3,172.5,20,male,No,No,No,3,2,0 (Completely disagree),3,4,4,3,4,3,4,3,3,3,2,3,2,3,4,4,3,3,2,3,6,5,5,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,2,3,0,,No moderate physical activities,,,,,Days,7,3,30,,5,2,,No vigorous physical activities,,,,Yes,1,0,,Yes,2,10,,4,30,,8,6,9 (Beneficial),5,9 (Healthy),7,9 (Wise),5,3,1 (Never),3,2,2,2,1 (Never),3,1 (Never),3,2,1 (Never),2,2,2,1 (Never),2,2,1 (Never),1 (Never),2,3
+2022-03-16 14:41:14,2022-03-16 17:52:03,IP Address,100,11448,True,2022-03-16 17:52:04,R_3niqkLScwFXMfMh,email,EN,ss_19,81,170.5,22,male,No,No,No,6,5,5,3,5,2,1,3,1,1,1,1,5,5,5,3,4,2,4,4,4,4,4,7,8,8,6,13 - Somewhat hard,Sitting,Days,5,3,0,,Days,2,4,0,,Days,7,2,30,,6,0,,Yes,2,0,,Yes,1,0,,Yes,2,0,,2,0,,5,1 (Unenjoyable),6,3,5,4,5,4,6 (Always),6 (Always),3,3,4,4,4,5,1 (Never),5,3,3,4,3,3,2,4,2,4,2,3,4
+2022-03-17 14:47:46,2022-03-17 17:40:40,IP Address,100,10374,True,2022-03-17 17:40:41,R_cRN2uLvm0Ffbp6x,email,EN,ss_20,94.9,191.5,21,male,No,No,No,7,3,5,1,5,2,3,2,2,2,1,4,5,2,3,5,5,4,5,5,5,4,1,8,7,7,8,16,Sitting,Days,4,2,120,,Days,3,6,360,,Days,7,1/2,30,,3,180,,Yes,1,0,,No moderate physical activities,,,,Yes,1,0,,1,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),2,5,4,3,5,2,6 (Always),2,4,2,1 (Never),5,2,6 (Always),1 (Never),3,1 (Never),1 (Never),5,2,8
+2022-03-22 11:48:03,2022-03-22 14:21:59,IP Address,100,9236,True,2022-03-22 14:22:00,R_BL1v8F3pj7CWZ2h,email,EN,ss_21,57.7,161.3,20,female,No,No,No,2,1,1,1,5,1,1,4,1,2,1,4,5,2,1,5,5,3,5,5,5,4,1,6,4,3,"7 - Very, very light",10,Sitting,Days,5,1,0,,Days,6,0,40,,Days,6,0,30,,3,0,,Yes,1,20,,Yes,0,15,,Yes,0,10,,1,30,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),2,1 (Never),6 (Always),2,2,3,2,1 (Never),1 (Never),6 (Always),4,2,2,2,2,1 (Never),4,3,1 (Never),3,2,1
+2022-03-23 14:38:55,2022-03-23 17:39:12,IP Address,100,10816,True,2022-03-23 17:39:13,R_3DcOjGN2Xhovnng,email,EN,ss_22,71.4,166,20,female,No,No,No,5,4,4,1,5,1,2,4,1,2,1,5,5,2,1,4,5,1,4,5,5,3,1,7,7,7,"7 - Very, very light",14,Sitting,Days,6,2,0,,Days,7,0,45,,Days,7,0,45,,6,0,,Yes,2,15,,Yes,1,15,,Yes,1,15,,5,0,,8,7,8,7,8,8,8,7,5,3,5,5,4,4,4,2,2,5,3,4,3,4,4,2,5,3,2,2,4,9
+2022-03-24 14:51:50,2022-03-24 17:34:19,IP Address,100,9748,True,2022-03-24 17:34:19,R_9LxbBlzrjmSw3XX,email,EN,ss_23,67.1,163.5,19,female,No,No,No,4,7,3,2,4,3,2,3,1,1,1,4,4,2,3,4,5,1,4,4,4,3,2,7,6,6,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,2,1,0,,Days,2,1,0,,Days,5,1,0,,3,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,3,30,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),7,6,7,4,2,3,2,2,4,3,4,1 (Never),3,2,2,2,2,4,1 (Never),2,2,1 (Never),3,2,8
+2022-03-28 14:29:45,2022-03-28 17:23:43,IP Address,100,10437,True,2022-03-28 17:23:44,R_2YsH7IIIvxaFBXn,email,EN,ss_24,73.9,189,20,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),2,5,1,1,5,2,2,1,4,5,2,1,3,4,2,4,5,5,3,2,0 (Not at all),0 (Completely disagree),0 (Completely disagree),9 - Very light,11 - Fairly light,Sitting,Days,3,2,0,,Days,5,2,0,,Days,5,0,30,,5,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,5,0,,9 (Useful),7,9 (Beneficial),7,9 (Healthy),8,9 (Wise),9 (Interesting),1 (Never),1 (Never),2,1 (Never),1 (Never),4,5,1 (Never),2,2,1 (Never),2,2,5,1 (Never),2,2,2,2,2,5,7
+2022-03-30 14:31:20,2022-03-30 17:34:12,IP Address,100,10971,True,2022-03-30 17:34:12,R_2b2HaMeNat2P3tA,email,EN,SS_25,70.7,166,20,female,No,No,No,6,4,5,2,5,1,1,3,1,3,3,5,5,3,4,3,5,1,4,5,5,3,2,7,6,3,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,5,1,15,,Days,7,3,0,,Days,7,2,0,,4,30,,Yes,3,0,,Yes,2,0,,Yes,1,0,,2,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),4,1 (Never),3,1 (Never),2,3,2,3,1 (Never),2,1 (Never),2,2,2,5,1 (Never),2,1 (Never),1 (Never),2,2,1
+2022-03-31 14:15:02,2022-03-31 17:26:03,IP Address,100,11460,True,2022-03-31 17:26:04,R_1q3crFYUNIEHNo5,email,EN,ss_26,67.8,162,18,female,No,No,No,2,1,1,2,5,1,1,5,2,2,1,5,5,2,2,4,5,2,5,5,5,3,2,2,2,2,8,10,Sitting,No vigorous physical activities,,,,,Days,2,2,00,,Days,7,4,00,,5,00,,No vigorous physical activities,,,,Yes,1,00,,Yes,3,00,,3,00,,6,6,6,5,6,7,6,5,2,2,5,2,3,2,2,3,1 (Never),4,1 (Never),1 (Never),2,1 (Never),3,1 (Never),4,1 (Never),2,1 (Never),2,10 (Fully aware)
+2022-04-04 14:33:12,2022-04-04 17:35:25,IP Address,100,10932,True,2022-04-04 17:35:26,R_1pWsikUWjy09BXF,email,EN,ss_27,56.6,161.5,20,female,No,No,No,2,2,2,3,5,3,1,4,2,4,2,4,4,2,1,4,2,2,3,5,2,2,4,7,7,4,11 - Fairly light,14,Sitting,Days,2,0,45,,Days,2,0,30,,Days,5,0,25,,6,0,,No vigorous physical activities,,,,Yes,1,0,,Yes,0,25,,3,0,,9 (Useful),7,9 (Beneficial),5,9 (Healthy),7,9 (Wise),9 (Interesting),3,3,5,5,1 (Never),2,1 (Never),3,1 (Never),4,1 (Never),1 (Never),2,1 (Never),6 (Always),2,5,1 (Never),5,3,2,10 (Fully aware)
+2022-04-11 14:37:37,2022-04-11 17:28:15,IP Address,100,10237,True,2022-04-11 17:28:16,R_3hEp4ehUi1pRKr4,email,EN,ss_28,86.5,172.5,22,male,No,No,No,6,3,5,2,5,1,1,4,1,2,1,5,5,1,3,5,5,1,4,5,5,5,2,4,3,3,10,13 - Somewhat hard,Standing,Days,6,5,0,,Days,7,4,0,,Days,7,4,0,,2,0,,Yes,6,15,,Yes,2,0,,Yes,4,0,,2,0,,9 (Useful),7,9 (Beneficial),7,9 (Healthy),6,7,7,1 (Never),5,3,5,3,4,4,3,5,3,4,3,5,4,2,3,2,4,2,4,5,0 (Not aware at all)
+2022-04-12 11:47:52,2022-04-12 14:22:15,IP Address,100,9263,True,2022-04-12 14:22:16,R_1eVMFCUXgd0yoUx,email,EN,ss_29,54.2,149,21,female,No,No,No,3,2,2,2,5,2,1,3,1,1,2,4,5,2,2,3,4,1,4,5,5,4,3,5,3,3,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,3,1,0,,Days,5,3,0,,Days,7,4,30,,5,00,,Yes,1,0,,Yes,1,00,,Yes,2,0,,2,0,,9 (Useful),7,9 (Beneficial),7,8,7,7,9 (Interesting),3,2,3,1 (Never),1 (Never),3,2,3,1 (Never),3,1 (Never),1 (Never),2,2,3,1 (Never),3,1 (Never),1 (Never),2,2,10 (Fully aware)
+2022-04-13 14:37:58,2022-04-13 17:45:41,IP Address,100,11263,True,2022-04-13 17:45:43,R_2fcy4LHYfiFv7Au,email,EN,ss_30,67.7,163.5,21,female,No,No,No,3,2,1,2,4,2,3,3,2,3,3,3,4,5,1,1,4,2,4,3,4,1,2,6,5,5,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,3,1,0,,Days,5,5,30,,Days,5,6,0,,3,0,,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,5,0,,9 (Useful),6,7,5,8,7,7,6,4,4,3,1 (Never),2,3,4,4,2,4,3,2,2,4,4,2,2,2,1 (Never),2,3,8
+2022-04-14 14:59:26,2022-04-14 17:27:59,IP Address,100,8913,True,2022-04-14 17:27:59,R_30krLy84UtBVK9r,email,EN,ss_31,75.3,171,21,male,No,No,No,2,1,1,2,5,2,2,4,1,2,2,4,5,2,2,3,5,5,4,5,5,4,2,5,3,3,"7 - Very, very light",11 - Fairly light,Sitting,Days,4,1,30,,Days,6,2,0,,Days,7,5,0,,5,0,,No vigorous physical activities,,,,Yes,2,00,,Yes,2,0,,4,00,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),8,9 (Wise),8,5,4,5,2,2,5,4,3,4,5,2,2,4,3,5,2,5,2,2,4,3,7
+2022-04-15 08:14:26,2022-04-15 11:21:31,IP Address,100,11225,True,2022-04-15 11:21:33,R_cP8fB8OiYA5rLs5,email,EN,ss_32,66.5,163,19,male,No,No,No,3,3,2,4,4,3,2,2,3,2,4,4,3,2,3,3,3,1,3,4,3,4,4,5,3,3,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,3,1,30,,Days,5,0,30,,Days,7,1,00,,5,00,,Yes,0,30,,No moderate physical activities,,,,Yes,0,30,,1,30,,8,6,8,6,5,8,8,6,6 (Always),1 (Never),4,3,1 (Never),3,2,6 (Always),1 (Never),4,3,1 (Never),3,2,6 (Always),1 (Never),4,3,1 (Never),2,2,7
+2022-04-20 14:41:19,2022-04-20 17:40:31,IP Address,100,10752,True,2022-04-20 17:40:32,R_potiRVgh8wyWLAZ,email,EN,ss_33,59.7,166.5,20,female,No,No,No,1,0 (Completely disagree),0 (Completely disagree),1,1,1,2,2,1,1,2,5,5,1,2,1,5,3,5,5,5,5,1,5,5,5,9 - Very light,12,Sitting,Days,6,3,0,,Days,2,1,0,,Days,5,1,30,,5,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,2,0,,5,0,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),8,9 (Wise),8,1 (Never),1 (Never),5,5,2,6 (Always),3,1 (Never),1 (Never),4,5,1 (Never),5,4,2,1 (Never),4,5,1 (Never),5,4,7
+2022-04-26 14:44:43,2022-04-26 17:26:04,IP Address,100,9681,True,2022-04-26 17:26:05,R_33li4o9KCKsFY7E,email,EN,ss_35,68.2,168,21,male,No,No,No,3,2,6,2,5,2,2,3,3,3,2,3,3,3,3,4,4,2,4,4,4,2,2,8,6,6,6,15 - Hard,Sitting,No vigorous physical activities,,,,,Days,6,6,30,,Days,6,2,00,,4,00,,Yes,1,0,,Yes,2,15,,Yes,1,45,,2,30,,4,4,7,2,7,4,5,5,1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),5,2,3,1 (Never),1 (Never),1 (Never),1 (Never),5,1 (Never),1 (Never),1 (Never),9
+2022-04-27 14:48:05,2022-04-27 17:47:36,IP Address,100,10771,True,2022-04-27 17:47:37,R_2sSf6MNwShxQY2o,email,EN,ss_36,89.6,160.5,22,female,No,No,No,3,5,3,2,4,3,1,3,2,2,2,3,4,2,3,4,4,2,3,4,4,2,2,6,4,3,"7 - Very, very light",12,Sitting,Days,2,1,0,,Days,5,2,40,,Days,7,1,30,,9,0,,No vigorous physical activities,,,,Yes,1,15,,Yes,0,30,,4,0,,9 (Useful),5,8,5,9 (Healthy),7,7,7,5,4,2,3,1 (Never),2,2,5,3,3,2,1 (Never),3,2,5,3,2,2,1 (Never),2,2,4
+2022-06-08 14:33:28,2022-06-08 17:30:45,IP Address,100,10637,True,2022-06-08 17:30:46,R_1KiEnWbA9o9WYp8,email,EN,ss_38,77.5,175.4,22,male,No,No,No,3,0 (Completely disagree),1,2,5,3,1,4,1,1,2,5,5,1,2,5,5,1,5,5,5,5,2,7,3,8,"7 - Very, very light",15 - Hard,Sitting,Days,2,1,30,,Days,3,3,0,,Days,7,1,30,,8,0,,No vigorous physical activities,,,,Yes,0,30,,Yes,0,45,,4,0,,9 (Useful),7,9 (Beneficial),6,8,9 (Satisfying),9 (Wise),7,4,3,3,3,1 (Never),3,3,2,2,3,1 (Never),1 (Never),1 (Never),2,4,2,3,5,1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2022-06-14 14:36:06,2022-06-14 17:41:20,IP Address,100,11113,True,2022-06-14 17:41:21,R_1eESDiByRBn973t,email,EN,ss_39,108.2,180.5,20,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),3,5,3,2,4,4,4,2,3,2,3,1,2,3,2,3,3,4,3,4,6,6,6,8,16,Sitting,Days,1,1,0,,Days,3,2,0,,Days,7,15,0,,5,30,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,0,,2,0,,9 (Useful),6,9 (Beneficial),5,9 (Healthy),8,9 (Wise),9 (Interesting),1 (Never),4,4,2,1 (Never),3,3,5,1 (Never),2,1 (Never),2,3,2,4,2,2,1 (Never),1 (Never),2,2,10 (Fully aware)
+2022-06-20 14:24:36,2022-06-20 17:26:12,IP Address,100,10895,True,2022-06-20 17:26:12,R_3iteoCwOQAtJjzu,email,EN,ss_40,60.8,154,20,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,2,2,4,1,2,1,4,5,3,2,4,4,2,4,5,5,5,2,5,2,2,6,"7 - Very, very light",Sitting,Days,7,1,30,,Days,3,2,0,,Days,7,1,30,,6,0,,Yes,1,0,,No moderate physical activities,,,,Yes,0,30,,5,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),6,9 (Interesting),5,1 (Never),6 (Always),2,2,4,1 (Never),5,1 (Never),5,2,1 (Never),4,1 (Never),5,1 (Never),5,2,1 (Never),4,1 (Never),4
+2022-06-21 10:53:47,2022-06-21 13:41:17,IP Address,100,10049,True,2022-06-21 13:41:18,R_2f8QNB4b10E2HIe,email,EN,ss_41,88,167.2,21,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,1,1,5,1,2,2,5,5,1,1,4,5,1,5,5,5,2,1,1,0 (Completely disagree),0 (Completely disagree),9 - Very light,13 - Somewhat hard,Sitting,Days,1,1,30,,Days,4,2,0,,Days,7,3,0,,7,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,0,,5,0,,9 (Useful),6,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),6,2,1 (Never),2,1 (Never),1 (Never),3,1 (Never),1 (Never),2,3,1 (Never),1 (Never),2,1 (Never),2,1 (Never),2,1 (Never),1 (Never),1 (Never),1 (Never),8
+2022-06-23 10:32:03,2022-06-23 13:37:04,IP Address,100,11100,True,2022-06-23 13:37:04,R_3hg9sj2mr8ij3Lm,email,EN,ss_42,80,171,21,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,1,2,5,2,1,1,4,4,2,1,4,5,1,5,5,5,3,1,4,5,5,"7 - Very, very light",12,Sitting,Days,5,0,35,,Days,5,0,30,,Days,7,0,45,,6,0,,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,1,30,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),7,9 (Wise),5,2,1 (Never),4,1 (Never),1 (Never),2,2,3,1 (Never),5,1 (Never),2,1 (Never),1 (Never),3,1 (Never),4,1 (Never),1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2022-07-07 14:41:47,2022-07-07 17:45:18,IP Address,100,11010,True,2022-07-07 17:45:19,R_qI1QzFb4RJ21fY5,email,EN,ss_43,57.1,156.5,20,female,No,No,No,3,2,2,2,5,2,2,4,3,2,2,3,4,2,2,4,5,2,5,4,4,3,2,6,6,6,10,13 - Somewhat hard,Sitting,Days,2,1,0,,Days,3,1,30,,Days,6,1,30,,6,0,,Yes,1,0,,No moderate physical activities,,,,Yes,0,45,,1,30,,7,6,8,6,8,7,8,5,2,1 (Never),3,2,1 (Never),3,4,1 (Never),1 (Never),4,2,2,2,4,2,1 (Never),4,1 (Never),1 (Never),2,4,4
+2022-07-11 14:43:12,2022-07-11 17:45:52,IP Address,100,10959,True,2022-07-11 17:45:54,R_3dSUKsr37SRnBES,email,EN,ss_44,135.7,181,20,male,No,No,No,2,0 (Completely disagree),0 (Completely disagree),5,2,4,1,4,2,2,1,5,4,4,3,2,1,2,3,5,4,1,5,10 (Very much),9,10 (Completely agree),6,17 - Very hard,Sitting,Days,6,1,0,,No moderate physical activities,,,,,Days,7,2,15,,10,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,20,,3,20,,9 (Useful),9 (Enjoyable),9 (Beneficial),4,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),4,3,6 (Always),1 (Never),3,3,5,4,2,6 (Always),1 (Never),3,3,4,5,2,1 (Never),1 (Never),1 (Never),4,4,10 (Fully aware)
+2022-07-18 12:01:14,2022-07-18 14:42:55,IP Address,100,9700,True,2022-07-18 14:42:55,R_1hKbsjNweUjdRPg,email,EN,ss_43,73.21,182.7,20,male,No,No,No,1,0 (Completely disagree),0 (Completely disagree),1,5,1,1,5,2,1,1,5,5,1,1,5,5,2,5,5,5,4,1,6,6,4,6,11 - Fairly light,Sitting,Days,7,1,15,,Days,5,0,30,,Days,7,1,30,,5,0,,Yes,1,05,,No moderate physical activities,,,,No walking,,,,2,30,,9 (Useful),8,9 (Beneficial),8,8,9 (Satisfying),9 (Wise),6,4,3,4,2,1 (Never),5,4,3,5,5,2,4,1 (Never),3,3,1 (Never),5,1 (Never),1 (Never),2,3,7
+2022-08-22 13:57:04,2022-08-22 16:40:46,IP Address,100,9821,True,2022-08-22 16:40:46,R_3nHExj7B90vm9wu,anonymous,EN,ss_46,74.4,172,19,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,1,2,4,1,2,1,5,5,2,1,4,5,3,4,5,5,3,1,7,6,0 (Completely disagree),6,13 - Somewhat hard,Sitting,Days,6,3,0,,Days,3,0,30,,Days,7,1,0,,6,0,,No vigorous physical activities,,,,Yes,1,00,,Yes,0,10,,5,0,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),3,1 (Never),5,1 (Never),2,6 (Always),2,1 (Never),3,5,1 (Never),2,3,2,2,2,5,1 (Never),2,5,2,10 (Fully aware)
+2022-08-29 15:15:42,2022-08-29 18:08:37,IP Address,100,10374,True,2022-08-29 18:08:38,R_cTFtQLVw7ykIyvn,anonymous,EN,ss_47,62.1,164,20,female,No,No,No,0 (Not at all),3,3,2,4,2,2,4,1,2,2,4,4,2,2,4,5,3,3,4,5,4,2,6,6,6,11 - Fairly light,14,Sitting,Days,4,1,60,,Days,6,1,60,,Days,7,4,200,,15,180,,Yes,0,45,,No moderate physical activities,,,,Yes,1,0,,4,20,,9 (Useful),8,9 (Beneficial),8,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),5,3,4,2,3,3,2,4,3,5,4,3,4,4,5,2,5,3,2,3,3,6
+2022-08-30 14:14:17,2022-08-30 17:35:10,IP Address,100,12052,True,2022-08-30 17:35:10,R_R8KS5ncxOdm6ZJn,anonymous,EN,ss_48,49.6,151.7,21,female,No,No,No,3,0 (Completely disagree),0 (Completely disagree),1,5,1,1,5,1,5,1,1,5,5,1,5,5,1,5,5,5,1,1,10 (Very much),0 (Completely disagree),10 (Completely agree),"7 - Very, very light",13 - Somewhat hard,Sitting,No vigorous physical activities,,,,,No moderate physical activities,,,,,Days,7,1/2,15,,15,30,,No vigorous physical activities,,,,Yes,0,15,,Yes,0,30,,4,00,,9 (Useful),9 (Enjoyable),9 (Beneficial),1 (Unpleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),1 (Never),1 (Never),6 (Always),1 (Never),1 (Never),1 (Never),1 (Never),6 (Always),1 (Never),6 (Always),1 (Never),1 (Never),6 (Always),1 (Never),1 (Never),1 (Never),6 (Always),1 (Never),1 (Never),1 (Never),1 (Never),0 (Not aware at all)
+2022-09-08 14:42:05,2022-09-08 17:19:12,IP Address,100,9426,True,2022-09-08 17:19:13,R_Rw3tf0UwKv95NQt,anonymous,EN,ss_49,58.7,158.7,20,female,No,No,No,5,5,8,1,1,1,1,3,3,3,1,3,4,4,2,2,5,2,3,4,5,2,1,6,8,6,6,12,Sitting,Days,6,2,15,,Days,4,0,30,,Days,5,0,15,,6,30,,Yes,2,30,,Yes,0,15,,Yes,0,10,,2,0,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),3,2,6 (Always),2,2,6 (Always),3,6 (Always),2,5,3,6 (Always),6 (Always),3,6 (Always),2,4,5,1 (Never),6 (Always),3,4
+2022-09-12 15:18:08,2022-09-12 17:44:43,IP Address,100,8794,True,2022-09-12 17:44:44,R_s6ktu735QJbsXg5,anonymous,EN,ss_50,78.5,178.3,21,male,No,No,No,3,3,4,2,4,2,1,3,2,2,2,5,4,2,2,3,4,2,4,4,4,3,2,6,3,4,"7 - Very, very light",12,Sitting,Days,4,1,30,,Days,3,2,00,,Days,7,0,30,,4,00,,Yes,1,00,,No moderate physical activities,,,,Yes,0,20,,3,30,,9 (Useful),8,9 (Beneficial),7,8,9 (Satisfying),8,9 (Interesting),3,4,4,3,2,3,4,4,4,3,3,2,2,4,4,4,4,2,2,3,3,7
+2022-09-13 14:44:39,2022-09-13 17:31:45,IP Address,100,10025,True,2022-09-13 17:31:46,R_AsAIIFn4mC27RsZ,anonymous,EN,ss_51,69.2,160.4,19,female,No,No,No,0 (Not at all),2,0 (Completely disagree),2,5,2,2,4,1,3,3,4,5,4,1,2,5,2,3,4,5,1,2,3,3,6,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,4,3,30,,No moderate physical activities,,,,,Days,7,0,40,,20,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,20,,14,0,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),1 (Never),5,4,5,3,4,4,2,6 (Always),5,4,2,6 (Always),5,3,5,4,4,2,3,5,10 (Fully aware)
+2022-09-19 15:17:13,2022-09-19 17:50:11,IP Address,100,9178,True,2022-09-19 17:50:13,R_2rTpULLnUiqCXP7,anonymous,EN,ss_52,60.2,159.4,21,female,No,No,No,3,3,2,3,5,2,2,3,2,1,1,2,5,1,3,5,4,1,3,5,4,4,3,8,7,5,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,6,1,45,,Days,7,2,30,,Days,5,2,30,,6,00,,No vigorous physical activities,,,,Yes,1,00,,Yes,0,45,,5,00,,9 (Useful),9 (Enjoyable),9 (Beneficial),9 (Pleasant),9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),2,1 (Never),6 (Always),5,3,4,2,4,2,1 (Never),2,1 (Never),1 (Never),1 (Never),3,1 (Never),2,3,1 (Never),3,1 (Never),8
+2022-09-20 14:46:47,2022-09-20 17:40:15,IP Address,100,10408,True,2022-09-20 17:40:16,R_1dfUgmBIy7XX7L7,anonymous,EN,ss_53,68,159,19,female,No,No,No,2,2,1,2,5,2,2,4,2,1,1,4,5,1,2,5,5,3,4,5,5,4,2,6,5,3,"7 - Very, very light",14,Sitting,Days,1,1,0,,Days,3,0,30,,Days,6,1,0,,9,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,0,,4,0,,8,3,9 (Beneficial),2,9 (Healthy),4,9 (Wise),2,1 (Never),1 (Never),2,2,1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),2,5,1 (Never),1 (Never),1 (Never),2,1 (Never),4,2,1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2022-09-22 14:43:59,2022-09-22 17:20:05,IP Address,100,9366,True,2022-09-22 17:20:06,R_6J7XvvhPFzAH5tv,anonymous,EN,ss_54,55.8,165,19,female,No,No,No,4,4,4,4,2,4,3,2,3,1,4,2,3,1,4,4,3,1,2,4,2,4,4,8,8,8,9 - Very light,11 - Fairly light,Sitting,No vigorous physical activities,,,,,No moderate physical activities,,,,,Days,7,1,0,,11,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,7,0,,9 (Useful),2,9 (Beneficial),2,9 (Healthy),5,9 (Wise),2,1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),1 (Never),10 (Fully aware)
+2022-09-29 14:36:40,2022-09-29 17:37:34,IP Address,100,10854,True,2022-09-29 17:37:35,R_3pheJWoUx55wAcq,anonymous,EN,ss_55,84.1,174.5,22,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),1,5,1,2,5,1,1,1,4,5,2,2,4,5,2,5,5,5,4,1,3,0 (Completely disagree),0 (Completely disagree),"7 - Very, very light",11 - Fairly light,Sitting,Days,7,1,30,,Days,7,1,0,,Days,7,1,0,,5,0,,Yes,1,0,,No moderate physical activities,,,,Yes,0,45,,4,0,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),2,1 (Never),5,2,2,5,3,1 (Never),2,4,1 (Never),1 (Never),3,2,1 (Never),1 (Never),2,2,1 (Never),2,2,7
+2022-10-03 15:08:08,2022-10-03 18:01:52,IP Address,100,10423,True,2022-10-03 18:01:52,R_1d3QcDs6djyiNpT,anonymous,EN,ss_56,79.5,178.3,21,male,No,No,No,3,2,1,2,4,3,3,5,4,3,2,3,2,3,2,3,4,5,4,4,4,3,2,7,6,6,8,13 - Somewhat hard,Sitting,Days,2,0,45,,Days,3,2,00,,Days,3,0,35,,5,45,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,5,30,,7,5,6,4,7,5,6,5,2,2,2,1 (Never),1 (Never),3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3
+2022-10-04 14:43:51,2022-10-04 17:58:06,IP Address,100,11654,True,2022-10-04 17:58:06,R_Rk8eIjmO1puw89P,anonymous,EN,ss_57,78.5,181.5,21,male,No,No,No,0 (Not at all),4,2,2,4,1,1,4,2,2,1,2,4,3,2,2,4,2,3,3,4,3,2,2,2,2,10,9 - Very light,Sitting,Days,4,2,0,,Days,2,3,0,,Days,7,1,0,,3,30,,No vigorous physical activities,,,,Yes,2,0,,Yes,1,0,,3,0,,9 (Useful),7,8,7,9 (Healthy),8,8,7,2,4,5,3,4,5,4,4,5,3,5,4,5,5,4,5,4,5,5,5,6 (Always),7
+2022-10-11 14:30:39,2022-10-11 17:21:12,IP Address,100,10232,True,2022-10-11 17:21:13,R_2pSi48bC9oHpCrL,anonymous,EN,ss_58,80.8,173,20,male,No,No,No,5,4,3,2,2,2,1,3,1,4,1,2,5,4,3,2,4,2,3,4,5,1,2,8,8,8,8,14,Sitting,Days,4,1,15,,Days,3,0,20,,Days,7,0,25,,6,00,,Yes,1,00,,No moderate physical activities,,,,Yes,0,15,,4,00,,9 (Useful),8,9 (Beneficial),7,9 (Healthy),9 (Satisfying),9 (Wise),9 (Interesting),6 (Always),6 (Always),6 (Always),1 (Never),2,5,1 (Never),6 (Always),5,3,2,5,2,2,5,6 (Always),3,2,1 (Never),2,2,9
+2022-10-14 14:52:32,2022-10-14 18:17:13,IP Address,100,12281,True,2022-10-14 18:17:14,R_3s1H0iDnJTUE1MN,anonymous,EN,ss_59,96.3,178.1,21,male,No,No,No,3,5,5,4,4,5,3,4,2,1,2,2,4,1,3,3,4,3,3,4,3,3,3,6,5,7,6,13 - Somewhat hard,Sitting,Days,1,0,45,,No moderate physical activities,,,,,Days,5,2,30,,3,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,0,30,,0,50,,7,6,8,5,8,6,8,7,4,4,3,1 (Never),2,3,1 (Never),1 (Never),3,2,2,5,2,3,2,2,3,2,3,2,3,10 (Fully aware)
+2022-10-17 15:02:06,2022-10-17 18:03:07,IP Address,100,10860,True,2022-10-17 18:03:07,R_3lWedXXQZmNABdC,anonymous,EN,ss_60,62.1,164.6,19,female,No,No,No,0 (Not at all),2,0 (Completely disagree),3,5,2,3,2,1,3,1,4,5,2,3,3,5,1,4,5,4,2,3,4,3,4,6,9 - Very light,Sitting,Days,3,1,0,,No moderate physical activities,,,,,Days,7,2,0,,9,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,30,,6,00,,9 (Useful),7,9 (Beneficial),6,8,9 (Satisfying),7,7,5,1 (Never),5,3,2,3,2,6 (Always),1 (Never),2,3,1 (Never),2,3,6 (Always),1 (Never),2,2,1 (Never),1 (Never),2,10 (Fully aware)
+2022-10-18 16:12:42,2022-10-18 19:13:00,IP Address,100,10817,True,2022-10-18 19:13:00,R_3pm1MDsLz2ilg7E,anonymous,EN,ss_61,91.2,190,19,male,No,No,No,3,0 (Completely disagree),2,1,5,2,2,4,3,2,2,4,5,2,2,4,4,1,4,4,5,4,2,4,0 (Completely disagree),5,"7 - Very, very light",13 - Somewhat hard,Sitting,Days,6,1,30,,Days,7,1,0,,Days,5,1,0,,3,00,,Yes,1,20,,No moderate physical activities,,,,Yes,1,0,,1,30,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),9 (Satisfying),9 (Wise),5,5,5,5,2,3,5,3,5,4,5,2,4,4,3,5,3,5,2,1 (Never),5,4,0 (Not aware at all)
+2022-10-20 14:44:33,2022-10-20 17:29:37,IP Address,100,9903,True,2022-10-20 17:29:37,R_8zSITfrh4Li6AP7,anonymous,EN,ss_62,67.6,157.1,21,female,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),4,5,4,1,2,2,4,3,4,4,4,2,1,4,1,4,4,3,1,5,7,7,7,9 - Very light,14,Sitting,No vigorous physical activities,,,,,No moderate physical activities,,,,,Days,5,1,30,,5,30,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,1,30,,5,30,,9 (Useful),6,9 (Beneficial),5,9 (Healthy),7,9 (Wise),5,4,3,1 (Never),3,1 (Never),2,1 (Never),4,1 (Never),4,1 (Never),1 (Never),2,2,4,1 (Never),3,1 (Never),1 (Never),1 (Never),1 (Never),1
+2022-10-21 15:11:48,2022-10-21 17:51:40,IP Address,100,9592,True,2022-10-21 17:51:40,R_XMxqLpaAXzgGXv3,anonymous,EN,ss_63,73.5,171,22,male,No,No,No,0 (Not at all),0 (Completely disagree),0 (Completely disagree),3,4,2,2,4,4,4,3,1,2,5,2,1,4,4,5,2,2,1,3,8,6,6,"7 - Very, very light",13 - Somewhat hard,Sitting,No vigorous physical activities,,,,,Days,2,2,0,,Days,5,0,15,,9,00,,No vigorous physical activities,,,,No moderate physical activities,,,,No walking,,,,3,00,,9 (Useful),7,9 (Beneficial),3,9 (Healthy),8,9 (Wise),7,5,3,2,3,1 (Never),2,2,2,1 (Never),1 (Never),3,1 (Never),2,2,5,1 (Never),2,2,1 (Never),2,5,7
+2022-10-24 15:10:46,2022-10-24 17:54:51,IP Address,100,9845,True,2022-10-24 17:54:53,R_2wtc5oOHehoKPqH,anonymous,EN,ss_64,55.6,155.1,21,female,No,No,No,2,2,2,2,4,2,2,4,3,3,2,3,4,3,2,3,4,2,3,4,4,3,1,2,2,2,"7 - Very, very light",10,Sitting,Days,2,1,0,,Days,3,1,0,,Days,7,3,0,,6,0,,No vigorous physical activities,,,,No moderate physical activities,,,,Yes,2,0,,4,0,,9 (Useful),7,9 (Beneficial),6,9 (Healthy),8,7,6,5,2,3,2,2,3,3,5,1 (Never),3,3,4,3,3,5,2,4,2,2,3,3,5
