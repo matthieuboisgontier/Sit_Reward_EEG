@@ -603,3 +603,4 @@ summary(m_change_rep_stnd)
 m_change_prefer <- glmer (chng_respns_num ~ rewp_230_lag_z*prefer + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
 summary(m_change_prefer)
 
+#toto test
