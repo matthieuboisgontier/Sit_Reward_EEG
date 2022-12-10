@@ -3,7 +3,7 @@
 This repository contains `R` scripts to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. 
 
 ## Data for analyses in R
-The raw data used in the R script is available in CSV format in the "Data" directory.
+The raw data used in the R script is available in CSV format in the "Data_R_models" directory.
 
 ## EEG 
 Raw EEG data files are available at: https://auburn.box.com/s/wbnev8nigk3qf0d8hmfsq1nnia3lvu0b  
