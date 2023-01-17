@@ -602,3 +602,197 @@ summary(m_change_rep_stnd)
 
 m_change_prefer <- glmer (chng_respns_num ~ rewp_230_lag_z*prefer + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
 summary(m_change_prefer)
+
+
+##########
+### Estimates to create the Figures for the behavioral results
+###########
+
+######
+# Figure for the choice of stimulis as a function of the trial
+######
+
+# main model
+m_stim <- glmer (stim.chosen_num ~ trial_z + (trial_z|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim)
+
+# estimation all the ten trials
+table(data$trial)
+describe(data$trial)
+
+data$trial_10 <- data$trial - 10
+describe(data$trial_10)
+
+data$trial_20 <- data$trial - 20
+describe(data$trial_20)
+
+data$trial_30 <- data$trial - 30
+describe(data$trial_30)
+
+data$trial_40 <- data$trial - 40
+describe(data$trial_40)
+
+data$trial_50 <- data$trial - 50
+describe(data$trial_50)
+
+data$trial_60 <- data$trial - 60
+describe(data$trial_60)
+
+data$trial_70 <- data$trial - 70
+describe(data$trial_70)
+
+data$trial_80 <- data$trial - 80
+describe(data$trial_80)
+
+data$trial_90 <- data$trial - 90
+describe(data$trial_90)
+
+data$trial_100 <- data$trial - 100
+describe(data$trial_100)
+
+data$trial_110 <- data$trial - 110
+describe(data$trial_110)
+
+data$trial_120 <- data$trial - 120
+describe(data$trial_120)
+
+data$trial_130 <- data$trial - 130
+describe(data$trial_130)
+
+data$trial_140 <- data$trial - 140
+describe(data$trial_140)
+
+data$trial_150 <- data$trial - 150
+describe(data$trial_150)
+
+data$trial_160 <- data$trial - 160
+describe(data$trial_160)
+
+m_stim_10 <- glmer (stim.chosen_num ~ trial_10 + (trial_10|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_10)
+exp(summary(m_stim_10)$coef[,1])
+exp(summary(m_stim_10)$coef[,2])
+exp(confint(m_stim_10))
+
+m_stim_20 <- glmer (stim.chosen_num ~ trial_20 + (trial_20|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_20)
+exp(summary(m_stim_20)$coef[,1])
+exp(summary(m_stim_20)$coef[,2])
+exp(confint(m_stim_20))
+
+m_stim_30 <- glmer (stim.chosen_num ~ trial_30 + (trial_30|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_30)
+exp(summary(m_stim_30)$coef[,1])
+exp(confint(m_stim_30))
+
+m_stim_40 <- glmer (stim.chosen_num ~ trial_40 + (trial_40|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_40)
+exp(summary(m_stim_40)$coef[,1])
+exp(confint(m_stim_40))
+
+m_stim_50 <- glmer (stim.chosen_num ~ trial_50 + (trial_50|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_50)
+exp(summary(m_stim_50)$coef[,1])
+exp(confint(m_stim_50))
+
+m_stim_60 <- glmer (stim.chosen_num ~ trial_60 + (trial_60|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_60)
+exp(summary(m_stim_60)$coef[,1])
+exp(confint(m_stim_60))
+Low_IC <- exp((summary(m_stim_60)$coef[,1]) - (summary(m_stim_60)$coef[,2])* 1.96) 
+Low_IC
+High_IC <- exp((summary(m_stim_60)$coef[,1]) + (summary(m_stim_60)$coef[,2])* 1.96) 
+High_IC
+
+m_stim_70 <- glmer (stim.chosen_num ~ trial_70 + (trial_70|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_70)
+exp(summary(m_stim_70)$coef[,1])
+exp(confint(m_stim_70))
+
+m_stim_80 <- glmer (stim.chosen_num ~ trial_80 + (trial_80|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_80)
+exp(summary(m_stim_80)$coef[,1])
+exp(confint(m_stim_80))
+
+m_stim_90 <- glmer (stim.chosen_num ~ trial_90 + (trial_90|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_90)
+exp(summary(m_stim_90)$coef[,1])
+exp(confint(m_stim_90))
+
+m_stim_100 <- glmer (stim.chosen_num ~ trial_100 + (trial_100|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_100)
+exp(summary(m_stim_100)$coef[,1])
+exp(confint(m_stim_100))
+
+m_stim_110 <- glmer (stim.chosen_num ~ trial_110 + (trial_110|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_110)
+exp(summary(m_stim_110)$coef[,1])
+exp(confint(m_stim_110))
+
+m_stim_120 <- glmer (stim.chosen_num ~ trial_120 + (trial_120|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_120)
+exp(summary(m_stim_120)$coef[,1])
+exp(confint(m_stim_120))
+
+m_stim_130 <- glmer (stim.chosen_num ~ trial_130 + (trial_130|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_130)
+exp(summary(m_stim_130)$coef[,1])
+exp(confint(m_stim_130))
+
+m_stim_140 <- glmer (stim.chosen_num ~ trial_140 + (trial_140|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_140)
+exp(summary(m_stim_140)$coef[,1])
+exp(confint(m_stim_140))
+
+m_stim_150 <- glmer (stim.chosen_num ~ trial_150 + (trial_150|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_150)
+exp(summary(m_stim_150)$coef[,1])
+exp(confint(m_stim_150))
+
+m_stim_160 <- glmer (stim.chosen_num ~ trial_160 + (trial_160|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_160)
+exp(summary(m_stim_160)$coef[,1])
+exp(confint(m_stim_160))
+
+####
+# figure crreation
+###
+p <- ggplot() + geom_jitter(position=position_jitter(0.15),
+    color="black") + ylab("Odd Ratios") + theme_classic() +
+    geom_point(aes(x= 2.69, y =1,  yend = 1), fill ="lightgrey",
+    color="black", ,size = 3) + geom_segment(aes(x= 1.78  , xend= 4.11 , y =1,  yend = 1),
+    colour = "black")  + geom_point(aes(x =2.51, y =2,  yend = 2),
+    color = "black", size =3) + geom_segment(aes(x=  1.71  , xend=  3.71 , y =2,  yend = 2),
+    colour = "black") + geom_point(aes(x =2.34  , y =3,  yend = 3),
+    colour = "black", size =3)+  geom_segment(aes(x=  1.64 , xend= 3.35 , y =3,  yend = 3),
+    colour ="black") +  geom_point(aes(x = 2.18 , y =4,  yend = 4),
+    colour = "black", size =3)+   geom_segment(aes(x= 1.57 , xend= 3.04  , y =4,  yend = 4),
+    colour ="black") + geom_point(aes(x = 2.03 , y =5,  yend = 5),
+    colour = "black", size =3)+   geom_segment(aes(x= 1.50 , xend= 2.75  , y =5,  yend = 5),
+    colour ="black") + geom_point(aes(x = 1.89 , y =6,  yend = 6),
+    colour = "black", size =3) +   geom_segment(aes(x= 1.43 , xend= 2.50  , y =6,  yend = 6),
+    colour ="black") + geom_point(aes(x = 1.76 , y =7,  yend = 7),
+    colour = "black", size =3) +   geom_segment(aes(x= 1.36 , xend= 2.28  , y =7,  yend = 7),
+    colour ="black")+ geom_point(aes(x = 1.64 , y =8,  yend = 8),
+    colour = "black", size =3)+   geom_segment(aes(x= 1.29 , xend= 2.09  , y =8,  yend = 8),
+    colour ="black") + geom_point(aes(x = 1.52 , y =9,  yend = 9),
+    colour = "black", size =3)+   geom_segment(aes(x= 1.22 , xend= 1.92  , y =9,  yend = 9),
+    colour ="black") + geom_point(aes(x = 1.42 , y =10,  yend = 10),
+    colour = "black", size =3)+   geom_segment(aes(x= 1.14 , xend= 1.77  , y =10,  yend = 10),
+    colour ="black") + geom_point(aes(x = 1.33 , y =11,  yend = 11),
+    colour = "black", size =3) +   geom_segment(aes(x= 1.07 , xend= 1.64  , y =11,  yend = 11),
+    colour ="black")+ geom_point(aes(x = 1.23 , y =12,  yend = 12),
+    colour = "black", size =3) +   geom_segment(aes(x= 0.99 , xend= 1.54  , y =12,  yend = 12),
+    colour ="black") + geom_point(aes(x = 1.15 , y =13,  yend = 13),
+    colour = "black", size =3)+   geom_segment(aes(x= 0.91 , xend= 1.45  , y =13,  yend = 13),
+    colour ="black") + geom_point(aes(x = 1.07 , y =14,  yend = 14),
+    colour = "black", size =3)+   geom_segment(aes(x= 0.84 , xend= 1.37  , y =14,  yend = 14),
+    colour ="black") + geom_point(aes(x = 1.00 , y =15,  yend = 15),
+    colour = "black", size =3)+   geom_segment(aes(x= 0.76 , xend= 1.30  , y =15,  yend = 15),
+    colour ="black") + geom_point(aes(x = 0.93 , y =16,  yend = 16),
+    colour = "black", size =3)+   geom_segment(aes(x= 0.70 , xend= 1.24  , y =16,  yend = 16),
+    colour ="black") +
+    coord_trans(x="log2") + geom_vline(xintercept = 1, colour = "black", linetype = 5) + xlim(0.60, 1)  + scale_x_continuous(breaks = c(0.50, 1.00,1.50,2.00, 4.00)) +
+    theme(axis.text.y=element_blank(),axis.ticks.y=element_blank()) + 
+    annotation_logticks(base = 2) +   theme(axis.text=element_text(size=12))
+p
