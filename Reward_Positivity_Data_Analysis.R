@@ -796,3 +796,38 @@ p <- ggplot() + geom_jitter(position=position_jitter(0.15),
     theme(axis.text.y=element_blank(),axis.ticks.y=element_blank()) + 
     annotation_logticks(base = 2) +   theme(axis.text=element_text(size=12))
 p
+
+
+######
+# Figure for the choice of stimulis as a function of the trial
+######
+toto$previous_trial_type <- as.factor(as.character(toto$previous_trial_type))
+toto$previous_trial_ref_sit <- relevel(toto$previous_trial_type,
+                                       ref = "sit")
+toto$previous_trial_ref_stand <- relevel(toto$previous_trial_type,
+                                       ref = "stand")
+
+m_change_adjusted_sit_ref <- glmer (chng_respns_num ~ rewp_230_lag_z*previous_trial_ref_sit + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_adjusted_sit_ref)
+exp(summary(m_change_adjusted_sit_ref)$coef[,1])
+exp(confint(m_change_adjusted_sit_ref))
+
+m_change_adjusted_stand_ref <- glmer (chng_respns_num ~ rewp_230_lag_z*previous_trial_ref_stand + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_adjusted_stand_ref)
+exp(summary(m_change_adjusted_stand_ref)$coef[,1])
+exp(confint(m_change_adjusted_stand_ref))
+
+####
+# figure creation
+###
+p <- ggplot() + geom_jitter(position=position_jitter(0.15),
+                            color="black") + ylab("Odd Ratios") + theme_classic() +
+  geom_point(aes(x= 0.49, y =1,  yend = 1), fill ="lightgrey",
+             color="black", ,size = 3) + geom_segment(aes(x= 0.41  , xend= 0.60 , y =1,  yend = 1),
+                                                      colour = "black")  + geom_point(aes(x =0.70, y =2,  yend = 2), color = "black", size =3) +
+  geom_segment(aes(x=  0.58  , xend=  0.85 , y =2,  yend = 2), colour = "black") +
+  coord_trans(x="log2") + geom_vline(xintercept = 1, colour = "black", linetype = 5) + xlim(0.60, 1)  + scale_x_continuous(breaks = c(0.25, 0.50,0.75,1.00)) +
+  theme(axis.text.y=element_blank(),axis.ticks.y=element_blank()) + 
+  annotation_logticks(base = 2) +   theme(axis.text=element_text(size=12))
+p
+
