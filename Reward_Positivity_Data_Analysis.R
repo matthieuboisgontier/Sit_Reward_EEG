@@ -516,6 +516,15 @@ summary(m_rewp_230_rep_stnd)
 m_rewp_230_prefer <- lmer(rewp_230 ~  1 + reward_fact*type_fact*prefer  + (1 | subject) + (1 | reward_fact:subject) + (1 | type_fact:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_prefer)
 
+# ranking IPAQ
+quantile(data$typical_mvpa, na.rm= TRUE)
+data$quartile_PA <- ntile(data$typical_mvpa, 4)
+data[,c("typical_mvpa", "quartile_PA")]
+table(data$quartile_PA)
+
+m_rewp_230_quart_PA <- lmer(rewp_230 ~  1 + reward_fact*type_fact*quartile_PA  + (1 | subject) + (1 | reward_fact:subject) + (1 | type_fact:subject), data=data, REML=FALSE, na.action=na.omit)
+summary(m_rewp_230_quart_PA)
+
 
 ########
 ##### Stimuli chosen
@@ -554,6 +563,10 @@ summary(m_stim_rep_stnd)
 
 m_stim_prefer <- glmer (stim.chosen_num ~ trial_z*prefer + (trial_z|subject), family="binomial", data=data, na.action=na.omit)
 summary(m_stim_prefer)
+
+m_stim_quartPA <- glmer (stim.chosen_num ~ trial_z*quartile_PA + (trial_z|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_quartPA)
+
 
 ########
 ##### Change Stimuli chosen
@@ -603,6 +616,8 @@ summary(m_change_rep_stnd)
 m_change_prefer <- glmer (chng_respns_num ~ rewp_230_lag_z*prefer + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
 summary(m_change_prefer)
 
+m_change_quartile_PA <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_quartile_PA)
 
 ##########
 ### Estimates to create the Figures for the behavioral results
