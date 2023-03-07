@@ -74,7 +74,7 @@ summary(m_rewp_230_main)
 check_model(m_rewp_230_main)
 plot_model(m_rewp_230_main, type="pred", terms=c("reward_fact", "type_fact")) 
 confint(m_rewp_230_main)
-### thus, main effect of reward as expected (H1).However, no interaction with the type of trials 
+### Main effect of reward as expected. However, no interaction with the type of trials.
 
 ############
 ####  sensitivity analyses (i.e., rewp at 250 and with cz, cpz, and pz)
