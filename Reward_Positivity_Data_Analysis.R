@@ -29,6 +29,9 @@ data$reward_fact <- as.factor(as.character(data$reward_fact))
 table(data$reward)
 table(data$reward_fact) # to check correct conversion
 
+# Remove 9 lines for which there is NO type (and no answers (rewp_230=NA))
+data = data[data$type!="", ]
+
 # Change value of the variable "type"; if the trial result in a sit vs a stand trial
 data$type_fact <- revalue(data$type, c("stand"="stand", "sit"="sit"))
 data$type_fact <- as.factor(as.character(data$type_fact))
