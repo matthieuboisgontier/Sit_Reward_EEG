@@ -59,6 +59,11 @@ describe(data$trial_z)
 ####### Registered Primary Analyses
 ########################################
 
+### to obtain MAIN effects, and check corresponding contrasts
+options( contrasts = c("contr.sum", "contr.sum"))
+contrasts(data$type_fact)
+contrasts(data$reward_fact)
+
 #### Empty model
 m_rewp_230_empty <- lmer(rewp_230 ~  1 + (1 | subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_empty)
