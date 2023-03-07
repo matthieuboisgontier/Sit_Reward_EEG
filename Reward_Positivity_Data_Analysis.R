@@ -60,7 +60,7 @@ describe(data$trial_z)
 ########################################
 
 ### to obtain MAIN effects, and check corresponding contrasts
-options( contrasts = c("contr.sum", "contr.sum"))
+options(contrasts = c("contr.sum", "contr.sum"))
 contrasts(data$type_fact)
 contrasts(data$reward_fact)
 
@@ -73,6 +73,7 @@ m_rewp_230_main <- lmer(rewp_230 ~  1 + reward_fact*type_fact + (1 | subject) + 
 summary(m_rewp_230_main)
 check_model(m_rewp_230_main)
 plot_model(m_rewp_230_main, type="pred", terms=c("reward_fact", "type_fact")) 
+confint(m_rewp_230_main)
 ### thus, main effect of reward as expected (H1).However, no interaction with the type of trials 
 
 ############
@@ -382,8 +383,7 @@ m_rewp_230_main_adjusted_7 <- lmer(rewp_230 ~  1 + reward_fact*type_fact +
                                      (1 | subject) + (1 | reward_fact:subject) + (1 | type_fact:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_main_adjusted_7)
 
-
-# Based on the Matt M's suggestions
+# Based on Matt M's suggestions
 data$Proba_sit_stim_rel_stand <- data$sit_stim_reward_prob - data$stnd_stim_reward_prob
 data[, c("Proba_sit_stim_rel_stand", "sit_stim_reward_prob", "stnd_stim_reward_prob")] # to check
 
