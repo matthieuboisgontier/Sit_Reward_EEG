@@ -231,7 +231,6 @@ data$today_mvpa_TransLog_z <- scale (data$today_mvpa_TransLog, scale = TRUE)
 ## model with non-transformed today mvpa
 m_rewp_230_ipaq.mvpa.today_z <- lmer(rewp_230 ~  1 + reward_num*type_num*today_mvpa_z  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_z)
-## three-way interaction between reward, trials and today mvpa
 plot_model(m_rewp_230_ipaq.mvpa.today_z, type="pred", terms=c("reward_num", "type_num", "today_mvpa_z")) 
 confint(m_rewp_230_ipaq.mvpa.today_z)
 
