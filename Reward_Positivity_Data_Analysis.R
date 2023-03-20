@@ -223,7 +223,7 @@ hist(data$p_today_mvpa_Trans)
 data$p_today_mvpa_Trans_z <- scale (data$p_today_mvpa_Trans, scale = TRUE)
 describe(data$p_today_mvpa_Trans_z)
 
-## LOG transformation for today mvpa
+## LOG1000 transformation for today mvpa
 data$today_mvpa_TransLog<- log(data$today_mvpa+1000)
 hist(log(data$today_mvpa+1000))
 data$today_mvpa_TransLog_z <- scale (data$today_mvpa_TransLog, scale = TRUE)
@@ -239,7 +239,7 @@ m_rewp_230_ipaq.mvpa.today_trans_z <- lmer(rewp_230 ~  1 + reward_num*type_num*p
 summary(m_rewp_230_ipaq.mvpa.today_trans_z)
 confint(m_rewp_230_ipaq.mvpa.today_trans_z)
 
-## model with log transformed today mvpa
+## model with log1000 transformed today mvpa
 m_rewp_230_ipaq.mvpa.today_translog_z <- lmer(rewp_230 ~  1 + reward_num*type_num*today_mvpa_TransLog_z  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_translog_z)
 confint(m_rewp_230_ipaq.mvpa.today_translog_z)
