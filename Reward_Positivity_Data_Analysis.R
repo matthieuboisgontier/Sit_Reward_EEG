@@ -344,7 +344,6 @@ toto <- data %>%
       group_by(subject) %>%
       mutate(rewp_230_lag = lag(rewp_230)) %>%
       ungroup()
-totobis <- select(toto, c('rewp_230','rewp_230_lag')) # to check; everytHing seems correct.
 
 m_change <- glmer (chng_respns_num ~ rewp_230_lag + (rewp_230_lag|subject), family="binomial", data=toto, na.action=na.omit)
 summary(m_change)
