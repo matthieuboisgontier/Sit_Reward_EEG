@@ -234,30 +234,42 @@ summary(m_rewp_230_ipaq.mvpa.today_z)
 plot_model(m_rewp_230_ipaq.mvpa.today_z, type="pred", terms=c("reward_num", "type_num", "today_mvpa_z")) 
 confint(m_rewp_230_ipaq.mvpa.today_z)
 
-# simple effects of the 3-way interaction
+### simple effects of the 3-way interaction (reward x type x today mvpa)
+# today mvpa low
 data$today_mvpa_z_low <- data$today_mvpa_z + 1
 m_rewp_230_ipaq.mvpa.today_z_low <- lmer(rewp_230 ~  1 + reward_num*type_num*today_mvpa_z_low  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_z_low)
 confint(m_rewp_230_ipaq.mvpa.today_z_low)
 
+# today mvpa high
 data$today_mvpa_z_high <- data$today_mvpa_z -1
 m_rewp_230_ipaq.mvpa.today_z_high <- lmer(rewp_230 ~  1 + reward_num*type_num*today_mvpa_z_high  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_z_high)
 confint(m_rewp_230_ipaq.mvpa.today_z_high)
 
-# sit as reference
+# sit as reference with mvpa high 
 data$sit_ref <- ifelse(data$type_num == -1, 0,1)
 data[,c("type_num","sit_ref")]
 m_rewp_230_ipaq.mvpa.today_z_high_sit_ref <- lmer(rewp_230 ~  1 + reward_num*sit_ref*today_mvpa_z_high  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_z_high_sit_ref)
 confint(m_rewp_230_ipaq.mvpa.today_z_high_sit_ref)
 
-# stand as reference
+# sit as reference with mvpa low
+m_rewp_230_ipaq.mvpa.today_z_low_sit_ref <- lmer(rewp_230 ~  1 + reward_num*sit_ref*today_mvpa_z_low  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
+summary(m_rewp_230_ipaq.mvpa.today_z_low_sit_ref)
+confint(m_rewp_230_ipaq.mvpa.today_z_low_sit_ref)
+
+# stand as reference with mvpa high
 data$stand_ref <- ifelse(data$type_num == -1, 1,0)
 data[,c("type_num","stand_ref")]
 m_rewp_230_ipaq.mvpa.today_z_high_stand_ref <- lmer(rewp_230 ~  1 + reward_num*stand_ref*today_mvpa_z_high  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
 summary(m_rewp_230_ipaq.mvpa.today_z_high_stand_ref)
 confint(m_rewp_230_ipaq.mvpa.today_z_high_stand_ref)
+
+# stand as reference with mvpa low
+m_rewp_230_ipaq.mvpa.today_z_low_stand_ref <- lmer(rewp_230 ~  1 + reward_num*stand_ref*today_mvpa_z_low  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
+summary(m_rewp_230_ipaq.mvpa.today_z_low_stand_ref)
+confint(m_rewp_230_ipaq.mvpa.today_z_low_stand_ref)
 
 ## model with boxcox transformed today mvpa
 m_rewp_230_ipaq.mvpa.today_trans_z <- lmer(rewp_230 ~  1 + reward_num*type_num*p_today_mvpa_Trans_z  + (1 | subject) + (1 | reward_num:subject) + (1 | type_num:subject), data=data, REML=FALSE, na.action=na.omit)
