@@ -642,6 +642,12 @@ m_change_prefer <- glmer (chng_respns_num ~ rewp_230_lag_z*prefer + (rewp_230_la
 summary(m_change_prefer)
 confint(m_change_prefer)
 
+toto$aware_z <- scale (toto$aware, scale = TRUE)
+m_change_awareness <- glmer (chng_respns_num ~ rewp_230_lag_z*aware_z + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_awareness)
+confint(m_change_awareness)
+
+#### Physical Activity Quartiles
 toto$quartile_PA <- scale (toto$typical_mvpa, scale = TRUE)
 quantile(toto$typical_mvpa, na.rm= TRUE)
 toto$quartile_PA <- ntile(toto$typical_mvpa, 4)
@@ -649,10 +655,33 @@ m_change_quartile_PA <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA + (r
 summary(m_change_quartile_PA)
 confint(m_change_quartile_PA)
 
-toto$aware_z <- scale (toto$aware, scale = TRUE)
-m_change_awareness <- glmer (chng_respns_num ~ rewp_230_lag_z*aware_z + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
-summary(m_change_awareness)
-confint(m_change_awareness)
+# Quartile 1
+m_change_quartile_PA_Q1 <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA_ref_Q1 + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_quartile_PA_Q1)
+exp(summary(m_change_quartile_PA_Q1)$coef[,1])
+exp(confint(m_change_quartile_PA_Q1))
+
+# Quartile 2
+m_change_quartile_PA_Q2 <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA_ref_Q2 + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_quartile_PA_Q2)
+exp(summary(m_change_quartile_PA_Q2)$coef[,1])
+exp(confint(m_change_quartile_PA_Q2))
+
+# Quartile 3
+m_change_quartile_PA_Q3 <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA_ref_Q3 + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_quartile_PA_Q3)
+exp(summary(m_change_quartile_PA_Q3)$coef[,1])
+exp(confint(m_change_quartile_PA_Q3))
+
+# Quartile 4
+m_change_quartile_PA_Q4 <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA_ref_Q4 + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
+summary(m_change_quartile_PA_Q4)
+exp(summary(m_change_quartile_PA_Q4)$coef[,1])
+exp(confint(m_change_quartile_PA_Q4)) # issue to compute the CI
+Low_IC <- exp((summary(m_change_quartile_PA_Q4)$coef[,1]) - (summary(m_change_quartile_PA_Q4)$coef[,2])* 1.96) 
+Low_IC
+High_IC <- exp((summary(m_change_quartile_PA_Q4)$coef[,1]) + (summary(m_change_quartile_PA_Q4)$coef[,2])* 1.96) 
+High_IC
 
 
 
