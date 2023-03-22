@@ -63,7 +63,7 @@ data$sex01_num <- as.numeric(as.character(data$sex01))
 
 # aggrefate data per subject
 DataAggreg = aggregate (cbind(age, sex01_num, bmi, typical_mvpa, today_mvpa, stdy_enrg_exp,typical_sitting, rpe_sit, rep_stnd, rewp_250, rewp_230, pre_cust_fat_avg, post_cust_fat_avg, mfi_avg, ex_dep_avg, ex_att_aff_avg, ex_att_inst_avg, aware)
-                        ~subject, data=data, FUN=mean, na.rm=TRUE, na.action=na.pass, subset = reward == "TRUE")
+                        ~subject, data=data, FUN=mean, na.rm=TRUE, na.action=na.pass)
 describe(DataAggreg)
 sum(with(DataAggreg,sex01_num == "0"))
 
