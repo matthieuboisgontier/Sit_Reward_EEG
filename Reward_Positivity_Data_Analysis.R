@@ -654,6 +654,20 @@ m_change_quartile_PA <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA + (r
 summary(m_change_quartile_PA)
 confint(m_change_quartile_PA)
 
+plot_model(m_change_quartile_PA, type="pred", terms=c("rewp_230_lag_z", "quartile_PA")) 
+
+toto$quartile_PA_ref_Q1 <- toto$quartile_PA - 1
+toto[,c("quartile_PA_ref_Q1", "quartile_PA")]
+
+toto$quartile_PA_ref_Q2 <- toto$quartile_PA - 2
+toto[,c("quartile_PA_ref_Q2", "quartile_PA")]
+
+toto$quartile_PA_ref_Q3 <- toto$quartile_PA - 3
+toto[,c("quartile_PA_ref_Q3", "quartile_PA")]
+
+toto$quartile_PA_ref_Q4 <- toto$quartile_PA - 4
+toto[,c("quartile_PA_ref_Q4", "quartile_PA")]
+
 # Quartile 1
 m_change_quartile_PA_Q1 <- glmer (chng_respns_num ~ rewp_230_lag_z*quartile_PA_ref_Q1 + (rewp_230_lag_z|subject), family="binomial", data=toto, na.action=na.omit)
 summary(m_change_quartile_PA_Q1)
