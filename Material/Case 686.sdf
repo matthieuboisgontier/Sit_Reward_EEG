@@ -1,0 +1,4 @@
+final_stim : reward != ""
+event_table custom( subject, block, left_stim, right_stim, stim_chosen, instruct, reward )
+print custom ( final_stim, "\t", "\n" )
+
