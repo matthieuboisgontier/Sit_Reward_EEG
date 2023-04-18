@@ -13,3 +13,7 @@ Raw EEG data files are available at: https://auburn.box.com/s/wbnev8nigk3qf0d8hm
 EEG processing history files are available at: https://auburn.box.com/s/mqbfhk0tbamj2hyq4oh3wxropeh8an3u  
 EEG exported data files are available at: https://auburn.box.com/s/2au12315j4ympdlbbay9cwg99jmnh4bh  
 The EEG signal processing record spreadsheet is in the main directory.
+
+
+## Material
+Files to run the Presentation software script that presents the experimental stimuli.
