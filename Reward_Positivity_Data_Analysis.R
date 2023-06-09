@@ -852,7 +852,7 @@ exp(confint(m_stim_160))
 # FIGURES
 ##################
 
-# Figure 4. Odds Ratio for choosing the stimulus that was more likely to lead to sitting (vs. standing) as a function of trial number
+# Figure 4A. Odds Ratio for choosing the stimulus that was more likely to lead to sitting (vs. standing) as a function of trial number
 p <- ggplot() + geom_jitter(position=position_jitter(0.15),
                             color="black") + ylab("Odds Ratio") + theme_classic() +
       geom_point(aes(x= 2.69, y =1,  yend = 1), fill ="lightgrey",
@@ -893,6 +893,12 @@ p <- ggplot() + geom_jitter(position=position_jitter(0.15),
       annotation_logticks(base = 2) +   theme(axis.text=element_text(size=12))
 p
 
+# Figure 4B. Odds for choosing the sit stimulus as a function of the actual proabability to sit or stand
+library(languageR)
+library(effects)
+m_stim_adjusted_fig <- glmer (stim.chosen_num ~ trial_z*stimulus_trial_type_prob + (trial_z|subject), family="binomial", data=data, na.action=na.omit)
+summary(m_stim_adjusted_fig)
+plot(Effect(c("stimulus_trial_type_prob"), m_stim_adjusted_fig), 'stimulus_trial_type_prob', multiline=T)
 
 # Figure 5. Odds for changing of stimulus as a function of choice on the previous trial
 toto$previous_trial_type <- as.factor(as.character(toto$previous_trial_type))
