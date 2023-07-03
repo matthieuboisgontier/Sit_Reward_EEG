@@ -1,6 +1,8 @@
 # Relationship between reward-related brain activity and opportunities to sit
 
-This repository contains `R` scripts to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. 
+
+## R script
+This repository contains an `R` script "Reward_Positivity_Data_Analysis.R" to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. 
 
 ## Data for analyses in R
 The data used in the R script is available in CSV format in the "Data_R_models" directory.
