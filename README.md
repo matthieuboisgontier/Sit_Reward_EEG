@@ -2,7 +2,7 @@
 
 
 ## R script
-This repository contains an `R` script "Reward_Positivity_Data_Analysis.R" to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. 
+This repository contains an `R` script "Reward_Positivity_Data_Analysis.R" to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. The dataset used for this script is in the "Data_R_models" folder.
 
 ## Data for analyses in R
 The data used in the R script is available in CSV format in the "Data_R_models" directory.
