@@ -2,7 +2,7 @@
 
 
 ## R script
-This repository contains an `R` script "Reward_Positivity_Data_Analysis.R" to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording. The dataset used for this script is in the "Data_R_models" folder.
+This repository contains an `R` script "Reward_Positivity_Data_Analysis.R" to analyze reward associated with sitting down or squatting while undergoing electroencephalographic (EEG) recording.
 
 ## Data for analyses in R
 The data used in the R script is available in CSV format in the "Data_R_models" directory.
@@ -14,7 +14,7 @@ The raw behavioral data for each participant is available in the "Data" director
 The "signal processing record.xlsx" spreadsheet located in the main direcctory provides notes about EEG signal processing, with each row representing a subject and columns representing: subject number, notes about EEG, any interpolated electrodes, when the reward positivity window began and ended, and how many trials were included for each condition.
 
 ## EEG data
-There are three EEG folders. The "EEG_raw_data" folder contains the three files for each participant (.eeg, .vmrk, .vhdr). The "EEG_processing_history_files" folder contains the files to process each subject’s raw EEG and to process grand average event-related potentials (.ehst2, .hfinf2). The "EEG_exported_data_files" folder contains files for each participants’ independent component analysis (ICA) (and reverse ICA), for example “ss_64” and “ss_64_i”, respectively. Each participant also has a file (“ss_64_Artifact_Marking_All_Peaks”) that shows the amplitude of the reward positivity for each trial at each midline electrode. Some participants have two such files, one for the reward positivity calculated from a window beginning at 230 ms, and one for the reward positivity calculated from a window beginning at 250 ms.
+There are three EEG directories. The "EEG_raw_data" directory contains the three files for each participant (.eeg, .vmrk, .vhdr). The "EEG_processing_history_files" directory contains the files to process each subject’s raw EEG and to process grand average event-related potentials (.ehst2, .hfinf2). The "EEG_exported_data_files" directory contains files for each participants’ independent component analysis (ICA) (and reverse ICA), for example “ss_64” and “ss_64_i”, respectively. Each participant also has a file (“ss_64_Artifact_Marking_All_Peaks”) that shows the amplitude of the reward positivity for each trial at each midline electrode. Some participants have two such files, one for the reward positivity calculated from a window beginning at 230 ms, and one for the reward positivity calculated from a window beginning at 250 ms.
 
 ## Material
-The "Material" folder contain the files required to run the Presentation software script that presents the experimental stimuli.
+The "Material" directory contains the files required to run the Presentation software script that presents the experimental stimuli.
