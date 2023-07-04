@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<HistoryInfoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HeaderFilename>C:\Users\mwm0024\Box\Boris Cheval\sit_stand_2\Sit and stand_data\Main\EEG\raw\ss_39.vhdr</HeaderFilename>
+  <RawFilename>C:\Users\mwm0024\Box\Boris Cheval\sit_stand_2\Sit and stand_data\Main\EEG\raw\ss_39.eeg</RawFilename>
+  <AppendedFiles />
+  <Sequence>1</Sequence>
+  <Sequences>1</Sequences>
+  <Nodes>
+    <string>ss_39/Raw Data</string>
+    <string>ss_39/Raw Data/Topographic Interpolation</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Filters</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Filters/Raw Data Inspection</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Filters/Raw Data Inspection/ICA</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Reward/Baseline Correction_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Reward/Baseline Correction_Reward/Artifact Rejection_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Reward/Baseline Correction_Reward/Artifact Rejection_Reward/Average_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Reward/Baseline Correction_Reward/Artifact Rejection_Reward/Average_Reward/Diff. Waves</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_No_Reward/Baseline Correction_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_No_Reward/Baseline Correction_No_Reward/Artifact Rejection_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_No_Reward/Baseline Correction_No_Reward/Artifact Rejection_No_Reward/Average_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_Reward/Baseline Correction_Sit_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_Reward/Baseline Correction_Sit_Reward/Artifact Rejection_Sit_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_Reward/Baseline Correction_Sit_Reward/Artifact Rejection_Sit_Reward/Average_Sit_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_No_Reward/Baseline Correction_Sit_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_No_Reward/Baseline Correction_Sit_No_Reward/Artifact Rejection_Sit_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit_No_Reward/Baseline Correction_Sit_No_Reward/Artifact Rejection_Sit_No_Reward/Average_Sit_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_Reward/Baseline Correction_Stand_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_Reward/Baseline Correction_Stand_Reward/Artifact Rejection_Stand_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_Reward/Baseline Correction_Stand_Reward/Artifact Rejection_Stand_Reward/Average_Stand_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_No_Reward/Baseline Correction_Stand_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_No_Reward/Baseline Correction_Stand_No_Reward/Artifact Rejection_Stand_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand_No_Reward/Baseline Correction_Stand_No_Reward/Artifact Rejection_Stand_No_Reward/Average_Stand_No_Reward</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_All</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_All/Baseline Correction_All</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_All/Baseline Correction_All/Artifact Marking_All</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_All/Baseline Correction_All/Artifact Marking_All/Peak Export</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand/Baseline Correction_Stand</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand/Baseline Correction_Stand/Artifact Rejection_Stand</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Stand/Baseline Correction_Stand/Artifact Rejection_Stand/Average_Stand</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit/Baseline Correction_Sit</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit/Baseline Correction_Sit/Artifact Rejection_Sit</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit/Baseline Correction_Sit/Artifact Rejection_Sit/Average_Sit</string>
+    <string>ss_39/Raw Data/Topographic Interpolation/Edit Channels/New Reference/Linear Derivation/Linear Derivation/Edit Channels/Filters/Segmentation_Sit/Baseline Correction_Sit/Artifact Rejection_Sit/Average_Sit/Diff. Waves_sit.stand</string>
+  </Nodes>
+  <TIDs>
+    <guid>00000000-0000-0000-0000-000000000000</guid>
+    <guid>635b0d62-555d-426d-b332-2df65a2e9869</guid>
+    <guid>64335d0b-66df-4dfc-9734-334b31b95ad1</guid>
+    <guid>6c97c9e2-0885-4921-a443-a4cb35c8ba8b</guid>
+    <guid>ef7c9879-64d3-408b-a690-87682640928e</guid>
+    <guid>9ee19a54-908b-4a2e-b263-b429623afd16</guid>
+    <guid>7306e3fc-52e7-4b53-8ba8-24d01f5901d5</guid>
+    <guid>2ea76060-d33f-4bb3-a30f-7c09a8f78b6a</guid>
+    <guid>919f48a8-a61b-40cf-af21-3a5d278ddb4b</guid>
+    <guid>745451e2-805f-4321-8826-c0e340f48c3d</guid>
+    <guid>44a3cb96-da5a-45f3-9607-31a4dacbc017</guid>
+    <guid>1c9917c3-c7bd-43be-a7d7-ba879a3654c9</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>eda65ae9-25ce-4d54-9481-1a0990a12cbf</guid>
+    <guid>37372c14-8936-4276-a48c-3a7eaf3ebcd6</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>34518322-963f-47b7-b0bc-572a2b14646e</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>c3830e4e-f85d-469e-9ad2-ae03993b938b</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>0ec42ee9-2e05-4b0b-bc6e-3983c4a758dc</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>f20ed471-3eba-49ed-9c86-8b4d49f933e9</guid>
+    <guid>26b102e5-c578-48ab-8bb0-7429ba5f73a5</guid>
+    <guid>c19c3d6d-6708-467f-b3f3-af149d7cf385</guid>
+    <guid>440fbd55-5b10-47fc-a34e-7bb54451daed</guid>
+    <guid>5883b7a1-f24e-48c5-864a-814d62f733e9</guid>
+    <guid>50022a39-c05b-477c-a1cd-f107dc3362ce</guid>
+    <guid>6909d50f-f020-4254-9719-6567a0e12723</guid>
+    <guid>0d030305-67c6-40b5-b29b-284800e4517f</guid>
+    <guid>610238ed-04ab-42a9-b4e5-07a8f258e40d</guid>
+    <guid>7241cec8-9db8-414a-b8f2-a246031866a6</guid>
+    <guid>0a3cef8d-b44e-419b-b5e1-b5b7bb14c9c2</guid>
+    <guid>fc79c264-9203-43d4-94bd-ba0af6a36330</guid>
+    <guid>f749489d-5dea-4e40-95c8-2099d02f53da</guid>
+    <guid>7241cec8-9db8-414a-b8f2-a246031866a6</guid>
+    <guid>0a3cef8d-b44e-419b-b5e1-b5b7bb14c9c2</guid>
+    <guid>fc79c264-9203-43d4-94bd-ba0af6a36330</guid>
+    <guid>9893117d-3880-4986-880d-63aec09d9578</guid>
+  </TIDs>
+  <ReaderID>36e2964e-25a7-1bd2-855e-00a005a0a376</ReaderID>
+  <RegistrationID>00000000-0000-0000-0000-000000000000</RegistrationID>
+  <User>MWM0024</User>
+  <Computer>EDUN-CY0JP13</Computer>
+</HistoryInfoFile>
