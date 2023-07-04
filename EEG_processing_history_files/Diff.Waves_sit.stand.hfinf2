@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<HistoryInfoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppendedFiles />
+  <Sequence>1</Sequence>
+  <Sequences>1</Sequences>
+  <Nodes>
+    <string>Diff.Waves_sit.stand/Raw Data</string>
+    <string>Diff.Waves_sit.stand/Raw Data/Standard Deviation</string>
+  </Nodes>
+  <TIDs>
+    <guid>93f19fb9-1416-4e44-9910-8eb46469fb11</guid>
+    <guid>f388bb33-1822-47ed-a35e-fdfd3f8cb9f0</guid>
+  </TIDs>
+  <ReaderID>5e37bb44-4bb9-11d2-8597-004005a09876</ReaderID>
+  <RegistrationID>00000000-0000-0000-0000-000000000000</RegistrationID>
+  <User>MWM0024</User>
+  <Computer>EDUN-CY0JP13</Computer>
+</HistoryInfoFile>
